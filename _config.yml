@@ -42,11 +42,20 @@ author:
   #     icon: "fas fa-fw fa-envelope-square"
   #     url: "mailto:you@example.com"
 
+# Renders as: Follow:  Twitter  Facebook  LinkedIn  Feed
+# The "Follow:" label and the trailing "Feed" link are added by the theme --
+# you only control the middle. Order here is the order on the page.
 footer:
-  # links:
-  #   - label: "GitHub"
-  #     icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/cselvaratnam"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/selvaratnam"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/christian.selvaratnam"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/cselvaratnam"
 
 # --- Build -----------------------------------------------------------------
 include:
