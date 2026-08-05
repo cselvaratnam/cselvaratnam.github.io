@@ -1,0 +1,92 @@
+# ---------------------------------------------------------------------------
+# Minimal Mistakes — remote theme configuration
+# Theme docs: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+#
+# NOTE: Jekyll does NOT reload _config.yml while `serve` is running.
+# Restart the server after editing this file.
+# ---------------------------------------------------------------------------
+
+# --- Theme -----------------------------------------------------------------
+# Pinned to a specific release so an upstream change can never break the site
+# unexpectedly. Bump the version deliberately when you want to update.
+remote_theme          : "mmistakes/minimal-mistakes@4.28.0"
+
+# Skins: default, air, aqua, contrast, dark, dirt, mint, neon, plum, sunrise
+minimal_mistakes_skin : "default"
+
+# --- Site settings ---------------------------------------------------------
+locale                : "en-GB"
+title                 : "Christian Selvaratnam"
+title_separator       : "|"
+name                  : "Christian Selvaratnam"
+description           : "Books and writing."
+url                   : "https://cselvaratnam.github.io"
+baseurl               : ""
+repository            : "cselvaratnam/cselvaratnam.github.io"
+
+# Set to true and add a search provider if you ever want site search.
+search                : false
+
+# --- Author ----------------------------------------------------------------
+# Used in the footer. The author sidebar is switched off site-wide (see
+# `defaults` below), so `bio` and `avatar` are not displayed anywhere yet.
+#
+# Add social/contact links here if you want them in the footer — each becomes a
+# public link on the live site, so only add what you are happy to publish.
+author:
+  name              : "Christian Selvaratnam"
+  # avatar          : "/assets/images/profile.jpg"
+  # bio             : ""
+  # links:
+  #   - label: "Email"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     url: "mailto:you@example.com"
+
+footer:
+  # links:
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/cselvaratnam"
+
+# --- Build -----------------------------------------------------------------
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - node_modules
+
+# jekyll-include-cache is REQUIRED by Minimal Mistakes.
+# All three are on the GitHub Pages supported-plugins list.
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# --- Defaults --------------------------------------------------------------
+# This block is what gives every page the single-column layout:
+#   author_profile: false  -> no left-hand author sidebar
+#   classes: wide          -> content uses the full width, no empty gutter
+# Override per-page in that page's front matter if you ever want an exception.
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout        : single
+      author_profile: false
+      classes       : wide
+      read_time     : false
+      comments      : false
+      share         : false
+      related       : false
