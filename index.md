@@ -1,8 +1,9 @@
 ---
 title: "Christian Selvaratnam"
 permalink: /
+header:
+  image: /assets/images/banner.jpg
 ---
-
 <!-- PLACEHOLDER — replace everything below with your own words. -->
 
 Welcome. This is a short introductory paragraph for the landing page: a
