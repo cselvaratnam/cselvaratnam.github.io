@@ -1,5 +1,35 @@
 # Christian Selvaratnam — personal site
 
+## Keep this file up to date
+
+**Update this file in the same session you learn something.** Do not wait to be
+asked, and do not leave it for later.
+
+Write it down whenever Christian states a preference, corrects a wording, makes
+a decision about how the site is structured, or you hit a trap in the theme that
+cost you time. If a rule here turns out to be wrong, fix it rather than adding a
+second, contradictory rule next to it.
+
+This file is the reason a fresh session does not repeat old mistakes. It is
+worth more than tidy code.
+
+## Where things live
+
+| Path | What |
+|---|---|
+| `~/Documents/Website/cselvaratnam.github.io/` | The site repo — this file, all pages, everything published |
+| `~/Documents/Website/sync.sh` | Publish script, deliberately **outside** the repo |
+| `~/Documents/Website/TODO.md` | Christian's private list, outside the repo so it is never published |
+| `~/Documents/Website/involvement-draft.md` | Working notes, outside the repo |
+
+This file stays **inside the repo**. That way it is version-controlled and
+backed up on GitHub along with everything else. The one catch: if you start a
+session in `~/Documents/Website` rather than in the repo folder, it will not be
+picked up automatically — open the repo folder, or read this file first.
+
+Note that `sync.sh`, `TODO.md` and `involvement-draft.md` are **not** in git and
+**not** in Dropbox. They exist on one disk only.
+
 ## Talk to Christian in plain English
 
 He is not a developer. Explain things the way you would to a capable colleague
@@ -86,7 +116,22 @@ Four pages only. Do not add pages, posts or a `_posts` collection unless asked.
 
 `../sync.sh ["message"]` — sits one level up, outside the repo. It shows what is
 about to go public, asks for confirmation (`-y` skips), commits and pushes.
-GitHub rebuilds within a minute or two.
+
+It handles two separate cases, because work can be waiting in two ways: edits
+not yet saved, and saved work not yet sent to GitHub. An early version only
+checked the first, and cheerfully reported 'everything is already published'
+while a saved commit sat unsent. If you change the script, keep both checks.
+
+**Publish once, at the end of a batch of edits.** Every push queues another
+publish job at GitHub, and they run one at a time — pushing a dozen times in an
+hour jammed the queue for over an hour and nothing reached the live site. The
+build itself only takes about 34 seconds; the queue is the bottleneck. Make all
+the edits, then sync once.
+
+If the live site is stale and there is nothing to sync, GitHub is the hold-up,
+not the repo. `gh run list --limit 3` shows the queue. Waiting is the fix —
+do not force a rebuild with `POST /pages/builds`, which races the workflow's own
+deployment and cancels it.
 
 `../TODO.md` is Christian's private list. It lives outside the repo
 deliberately: never publish it, never move it in.
