@@ -29,7 +29,10 @@ Cockayne and Will Foulger (eds),
 Stories of Church Planting from Around the World* (Wilmore: Asbury Theological
 Seminary, 2019)
 
-## In progress
+## Forthcoming
+
+*Exploring the Mixed Ecology of Church: How Churches Thrive Together*
+Grove Books, 2026
 
 *From Every Nation: Becoming an Intercultural Church in a Multicultural Age*
 Due 2027
