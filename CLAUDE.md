@@ -30,14 +30,26 @@ Actions, or `remote_theme` will not resolve.
 **`_pages` must stay in `include:`** in `_config.yml` — folders starting with an
 underscore are otherwise ignored.
 
-**Local preview needs Ruby 3.x.** The macOS system Ruby is 2.6 and too old.
-GitHub builds the site itself, so previewing is optional.
+**Local preview needs Ruby 3.x.** The macOS system Ruby is 2.6 and too old, and
+errors confusingly (`Errno::EPERM` on `getcwd`) if the shell is sitting in a
+TCC-blocked folder under `~/Documents`. GitHub builds the site itself, so
+previewing is entirely optional:
+
+```bash
+brew install ruby && bundle install && bundle exec jekyll serve --livereload
+```
 
 ## Layout
 
 Single column throughout. Set **once** in the `defaults` block at the foot of
 `_config.yml` via `author_profile: false` (no sidebar) and `classes: wide` (no
-empty gutter). Do not scatter these across individual pages.
+empty gutter), plus the CSS override described above. Do not scatter these
+across individual pages.
+
+To change the look, set `minimal_mistakes_skin` in `_config.yml` to one of:
+`default`, `air`, `aqua`, `contrast`, `dark`, `dirt`, `mint`, `neon`, `plum`,
+`sunrise`. Restart `jekyll serve` after editing `_config.yml` — it is the one
+file Jekyll does not reload.
 
 ## Structure
 
