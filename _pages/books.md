@@ -9,13 +9,13 @@ crafts understood about apprenticeship that the church has largely forgotten.
 
 ## Books
 
-**[Why Plant Churches? Theological and Practical Reasons](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/)**
+*[Why Plant Churches? Theological and Practical Reasons](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/)*
 Grove Books, 2023
 
-**[The Craft of Church Planting: Exploring the Lost Wisdom of Apprenticeship](https://scmpress.hymnsam.co.uk/books/9780334061816/the-craft-of-church-planting)**
+*[The Craft of Church Planting: Exploring the Lost Wisdom of Apprenticeship](https://scmpress.hymnsam.co.uk/books/9780334061816/the-craft-of-church-planting)*
 SCM Press, 2022. Written out of my doctoral research.
 
-**[Alpha as a Church Planting Tool](/assets/documents/alpha-as-church-planting-tool.pdf)**
+*[Alpha as a Church Planting Tool](/assets/documents/alpha-as-church-planting-tool.pdf)*
 Alpha International, London, 2017 *(PDF)*
 
 ## Chapters
