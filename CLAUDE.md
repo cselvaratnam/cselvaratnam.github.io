@@ -128,10 +128,35 @@ hour jammed the queue for over an hour and nothing reached the live site. The
 build itself only takes about 34 seconds; the queue is the bottleneck. Make all
 the edits, then sync once.
 
-If the live site is stale and there is nothing to sync, GitHub is the hold-up,
-not the repo. `gh run list --limit 3` shows the queue. Waiting is the fix —
-do not force a rebuild with `POST /pages/builds`, which races the workflow's own
-deployment and cancels it.
+### When the live site will not update
+
+Work through this in order. **Check GitHub's status first** — on 6 August 2026
+an afternoon was lost diagnosing a repo that was perfectly fine while Pages was
+in a major outage.
+
+```bash
+curl -s https://www.githubstatus.com/api/v2/components.json \
+  | grep -A3 '"name": "Pages"'
+curl -s https://www.githubstatus.com/api/v2/incidents/unresolved.json
+```
+
+Then:
+
+1. `gh run list --limit 3` — is a run queued, running, cancelled or failed?
+2. `gh api repos/cselvaratnam/cselvaratnam.github.io/deployments/<id>/statuses`
+   — the timings are diagnostic. `waiting → queued → in_progress` within a few
+   seconds followed by `failure` exactly ten minutes later is the deploy action
+   timing out because GitHub never answers. That is an outage, not a config
+   problem. Nothing in the repo will fix it.
+3. Only if the build itself fails, look at the repo. `gh run view <id>
+   --log-failed` gives the real error; the Pages API only ever says 'Page build
+   failed.'
+
+A cancelled run usually means a newer push superseded it — harmless.
+
+Do not force a rebuild with `POST /pages/builds`. It races the workflow's own
+deployment and cancels it, which looks exactly like a fresh failure and wastes
+more time.
 
 `../TODO.md` is Christian's private list. It lives outside the repo
 deliberately: never publish it, never move it in.
