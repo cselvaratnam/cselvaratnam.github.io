@@ -36,15 +36,5 @@ search: false
 }
 
 // ---------------------------------------------------------------------------
-// Page titles at regular weight rather than bold. The About page title is
-// Christian's full formal style ('Revd Canon Dr…'); in bold it reads like a
-// billboard. Regular weight states it and moves on.
-// ---------------------------------------------------------------------------
-
-.page__title {
-  font-weight: 400;
-}
-
-// ---------------------------------------------------------------------------
 // Your own overrides go below. They load after the theme, so they win.
 // ---------------------------------------------------------------------------
