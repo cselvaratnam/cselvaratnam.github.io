@@ -36,5 +36,17 @@ search: false
 }
 
 // ---------------------------------------------------------------------------
+// Hide the permalink chain-link icon the theme injects after every heading.
+//
+// It is added by the theme's JavaScript *after* the page loads, so it does not
+// appear in the served HTML -- view-source and curl will not show it. Only the
+// rendered DOM does.
+// ---------------------------------------------------------------------------
+
+.header-link {
+  display: none;
+}
+
+// ---------------------------------------------------------------------------
 // Your own overrides go below. They load after the theme, so they win.
 // ---------------------------------------------------------------------------
