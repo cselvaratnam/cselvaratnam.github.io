@@ -1,6 +1,8 @@
 ---
 title: "Writing"
 permalink: /writing/
+header:
+  image: /assets/images/banner2.jpg
 ---
 
 Below are links to writing for various publications, interviews and podcasts. My books are on the

@@ -2,7 +2,7 @@
 title: "Christian Selvaratnam"
 permalink: /
 header:
-  image: /assets/images/banner.jpg
+  image: /assets/images/banner1.jpg
 ---
 
 Hello, and welcome — thank you for stopping by.
