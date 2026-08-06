@@ -20,14 +20,13 @@ worth more than tidy code.
 | `~/Documents/Website/cselvaratnam.github.io/` | The site repo — this file, all pages, everything published |
 | `~/Documents/Website/sync.sh` | Publish script, deliberately **outside** the repo |
 | `~/Documents/Website/TODO.md` | Christian's private list, outside the repo so it is never published |
-| `~/Documents/Website/involvement-draft.md` | Working notes, outside the repo |
 
 This file stays **inside the repo**. That way it is version-controlled and
 backed up on GitHub along with everything else. The one catch: if you start a
 session in `~/Documents/Website` rather than in the repo folder, it will not be
 picked up automatically — open the repo folder, or read this file first.
 
-Note that `sync.sh`, `TODO.md` and `involvement-draft.md` are **not** in git and
+Note that `sync.sh` and `TODO.md` are **not** in git and
 **not** in Dropbox. They exist on one disk only.
 
 ## Talk to Christian in plain English
