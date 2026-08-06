@@ -1,6 +1,8 @@
 ---
 title: "Books"
 permalink: /books/
+header:
+  image: /assets/images/banner4.jpg
 ---
 
 Most of what I write comes from thirty years of starting churches and curiosity about how people are formed for that work — what the old crafts understood about apprenticeship that the church has largely forgotten.

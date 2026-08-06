@@ -1,6 +1,8 @@
 ---
 title: "Revd Canon Dr Christian Selvaratnam"
 permalink: /about/
+header:
+  image: /assets/images/banner5.jpg
 ---
 
 I am Dean of Church Planting at [St Hild College](https://www.sthild.org), Associate Minister of [St Stephen](https://www.acombparish.org), Acomb in York, and Director of Studies for the [Asbury Theological Seminary](https://asburyseminary.edu) Doctor of Ministry cohort in the UK and Europe.

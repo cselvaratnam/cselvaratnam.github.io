@@ -1,6 +1,8 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+header:
+  image: /assets/images/banner2.jpg
 ---
 
 Most of my teaching is with St Hild College, running from short courses for lay people through to doctoral supervision. I am always glad to hear from prospective research students.
