@@ -16,6 +16,10 @@ unfinished.
 
 ## 2025
 
+**[How churches can be intercultural](https://www.churchtimes.co.uk/articles/2025/5-december/comment/opinion/how-churches-can-be-intercultural)**
+*Church Times*, 5 December 2025. Becoming an intercultural parish church is more
+than welcoming people of different backgrounds.
+
 **[Non-Anxious Leadership from the Coventry Blitz](https://selvaratnam.substack.com/p/non-anxious-leadership-from-the-coventry)**
 *Substack*, 5 May 2025
 

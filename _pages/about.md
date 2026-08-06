@@ -3,21 +3,11 @@ title: "About"
 permalink: /about/
 ---
 
-Revd Canon Dr Christian Selvaratnam is Dean of Church Planting at
-[St Hild College](https://www.sthild.org). He is also Associate Minister of
-[St Stephen, Acomb](https://www.achurchnearyou.com/church/18975/) in York.
+Revd Canon Dr **Christian Selvaratnam** is Dean of Church Planting at [St Hild College](https://www.sthild.org), the Associate Minister of [St Stephen, Acomb](https://www.achurchnearyou.com/church/18975/) in York, and the Director of Studies for the [Asbury Theological Seminary](https://asburyseminary.edu) Doctor of Ministry cohort based in the UK.
 
-At St Hild he oversees the
-[Church Planting Track](https://www.sthild.org/church-planting-track) of
-[Common Awards](https://www.durham.ac.uk/departments/academic/common-awards/)
-modules, [Seedbed](https://www.sthildplanting.org/seedbed) (a lay training
-pathway), and [Camino](https://www.sthildplanting.org/camino) (a programme for
-resource church leaders). He also serves as Director of Studies for the
-[Asbury Theological Seminary](https://asburyseminary.edu) Doctor of Ministry
-cohort based in the UK.
+At St Hild he oversees the [Church Planting Track](https://www.sthild.org/church-planting-track) of Common Awards modules, [Seedbed](https://www.sthildplanting.org/seedbed) (a lay training pathway), and [Camino](https://www.sthildplanting.org/camino) (a programme for resource church leaders). 
 
-Before this, he worked for fifteen years with
-[Alpha International](https://www.alpha.org), including as National Director.
+Before this, he worked for fifteen years with [Alpha International](https://www.alpha.org), including as National Director.
 During this period, he also served for fourteen years as the ordained leader of
 G2, an Anglican church plant in York, and as Pioneer Minister at
 [St Michael le Belfrey](https://www.belfrey.org), York.
