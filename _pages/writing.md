@@ -3,21 +3,23 @@ title: "Writing"
 permalink: /writing/
 ---
 
-<!-- PLACEHOLDER — replace with your actual pieces.
+<!-- A hand-maintained list. If you would rather it became a proper blog --
+     dated posts in a `_posts` folder, listed automatically -- say the word. -->
 
-     This is a hand-maintained list. If you would rather it became a proper
-     blog — dated posts in a `_posts` folder, listed automatically — say so
-     and it is a small change to make. -->
+## 2024
 
-## 2026
+**[Michaelmas ordinations: Putting on the full armour of God](https://www.churchtimes.co.uk/articles/2024/4-october/features/features/michaelmas-ordinations-putting-on-the-full-armour-of-god)**
+*Church Times*, 4 October 2024. Why understanding trauma and building resilience
+now belong in training for ordained ministry.
 
-**[Title of the piece](https://example.com)** — *Publication*, month 2026.
-One line on what it argues.
+**[Is Christian ministry artistry?](https://www.sheffield.anglican.org/wp-content/uploads/2024/09/Network-Magazine-Autumn-2024.pdf)**
+*Network*, Diocese of Sheffield, autumn 2024 *(PDF)*
 
-**[Another piece](https://example.com)** — *Publication*, month 2026.
-One line on what it argues.
+**[C of E should try this recipe for growth](https://www.churchtimes.co.uk/articles/2024/7-june/comment/opinion/c-of-e-should-try-this-recipe-for-growth)**
+*Church Times*, 7 June 2024. There is a better way to reverse falling attendance
+than merging struggling parishes.
 
-## 2025
+## Blog
 
-**[An older piece](https://example.com)** — *Publication*, month 2025.
-One line on what it argues.
+**[Why plant churches?](https://www.psephizo.com/life-ministry/why-plant-churches/)**
+*Psephizo*
