@@ -3,6 +3,10 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+Most of my teaching is with St Hild College and its Centre for Church Planting,
+running from short courses for lay people through to doctoral supervision. I am
+always glad to hear from prospective research students.
+
 ## Courses
 
 **[Church Planting Track](https://sthild.org/church-planting-track)**

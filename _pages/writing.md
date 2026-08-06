@@ -7,6 +7,9 @@ permalink: /writing/
      proper blog -- dated posts in a `_posts` folder, listed automatically --
      say the word. -->
 
+Shorter pieces: comment and features for the *Church Times* and elsewhere, and
+the occasional post of my own when something will not leave me alone.
+
 ## 2026
 
 **[Learning from the American Civil Rights Story](https://selvaratnam.substack.com/p/learning-from-the-american-civil)**
