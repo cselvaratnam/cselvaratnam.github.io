@@ -9,14 +9,32 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 // ---------------------------------------------------------------------------
-// Your own overrides go below this line. They load after the theme, so they win.
+// TRUE SINGLE COLUMN
 //
-// Example — narrow the single column on very wide screens for easier reading:
+// Minimal Mistakes assumes an author sidebar on the left: above the $large
+// breakpoint it floats `.page` to the inline-end and sets its width to
+// `calc(100% - 200px)`, reserving that 200px for the sidebar.
 //
-//   #main {
-//     max-width: 50em;
-//   }
+// We have `author_profile: false`, so no sidebar is rendered at all -- but the
+// reserved space remains, leaving the content shunted right with a large dead
+// margin on the left. `classes: wide` does NOT fix this: it only zeroes the
+// end padding, not the reduced width or the float. Measured before this
+// override, at a 1280px viewport: 322px of space on the left, 22px on the
+// right.
 //
-// This file is entirely optional. Delete it and the theme's own styles apply
-// unchanged.
+// So undo the float, restore full width, and centre the column on a
+// comfortable measure. Delete this block and the lopsided layout returns.
+// ---------------------------------------------------------------------------
+
+.page,
+.page__related {
+  float: none;
+  width: 100%;
+  padding-inline-end: 0;
+  max-width: 48em;
+  margin-inline: auto;
+}
+
+// ---------------------------------------------------------------------------
+// Your own overrides go below. They load after the theme, so they win.
 // ---------------------------------------------------------------------------

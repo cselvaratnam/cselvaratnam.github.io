@@ -14,6 +14,13 @@ problem; the three printed *without* a fallback — `follow_label`, `meta_label`
 `toc_label` — silently render blank. Changing `locale` does not fix it. The same
 reasoning is why `_data/navigation.yml` must live here too.
 
+**Do not delete the single-column override in `assets/css/main.scss`.** The
+theme floats `.page` to the inline-end above `$large` and sets its width to
+`calc(100% - 200px)` to reserve room for the author sidebar. We render no
+sidebar, so that space is simply dead: content sits shunted right. `classes:
+wide` does *not* fix it — it only zeroes the end padding. Measured before the
+override at a 1280px viewport: 322px of space left, 22px right.
+
 **This is a GitHub *user* site.** The repo must stay named
 `cselvaratnam.github.io` and `baseurl` must stay empty.
 
@@ -69,9 +76,12 @@ British English, Guardian and Observer style, single quotation marks.
 Entries are a title line followed by a metadata line (publisher and year, or
 publication and date). Descriptions are optional and at most one sentence.
 
-**Voice:** the About page is third person, as a formal biography. The landing
-page and the intro paragraph at the top of Books, Writing and Teaching are first
-person, and deliberately understated — no self-promotion.
+**Voice: first person throughout, including About.** Deliberately understated —
+no self-promotion. Christian does not announce his own honorifics; 'Revd Canon
+Dr' does not belong in his own prose.
+
+**'The Belfrey' always takes a capital T**, including mid-sentence. Never 'the
+Belfrey'. Full name on first use: The Belfrey (St Michael le Belfrey).
 
 Link text should describe its destination ('the books page'), not be a bare
 'here'.

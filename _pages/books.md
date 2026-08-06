@@ -31,6 +31,8 @@ Seminary, 2019)
 
 ## In progress
 
-A book on intercultural church.
+*From Every Nation: Becoming an Intercultural Church in a Multicultural Age*
+Due 2027
 
-A book on discipleship, drawing lessons from the early Methodist church.
+*Discipleship Revolution: The Wesleys and the Shape of a Methodist Movement*
+CCX Publications, due 2027
