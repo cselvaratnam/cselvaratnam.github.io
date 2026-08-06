@@ -3,8 +3,7 @@ title: "Writing"
 permalink: /writing/
 ---
 
-Shorter pieces — writing for the *Church Times*, for local publications and my
-own articles, along with radio, podcasts and video. My books are on the
+Below are links to writing for various publications, interviews and podcasts. My books are on the
 [books page](/books/).
 
 ## 2026
