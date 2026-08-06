@@ -20,7 +20,7 @@ A short study of why the Alpha course and church planting fit together so natura
 
 'Is Church Planting a Craft? Training Lessons from Medieval Guilds', in Joshua Cockayne and Will Foulger (eds), [New Churches: A Theology](https://scmpress.hymnsam.co.uk/books/9780334066156/new-churches), (SCM Press, 2024).
 
-'Reclaiming the Missing Generation', in Winfield Bevins (ed.), [Global Voices: Stories of Church Planting from Around the World](https://asburychurchplanting.com/wp-content/uploads/Global_Voices.pdf), (Asbury Theological Seminary, 2019).
+'Reclaiming the Missing Generation', in Winfield Bevins (ed.), [Global Voices: Stories of Church Planting from Around the World](https://www.amazon.co.uk/Global-Voices-Stories-Church-Planting/dp/1095556835), (Asbury Theological Seminary, 2019).
 
 ## Forthcoming
 
