@@ -95,6 +95,13 @@ Dr' does not belong in his own prose.
 **'The Belfrey' always takes a capital T**, including mid-sentence. Never 'the
 Belfrey'. Full name on first use: The Belfrey (St Michael le Belfrey).
 
+**'Revd', never 'Rev'd' or 'Rev.'** The full title — Revd Canon Dr Christian
+Selvaratnam — belongs in the About page heading only. It never appears in his
+own prose.
+
+**Do not name the two book series he edits.** 'An editor for two academic book
+series' is as far as it goes.
+
 Link text should describe its destination ('the books page'), not be a bare
 'here'.
 
