@@ -22,7 +22,7 @@ series on the state of Christianity in England: [episode 1](https://www.bbc.co.u
 
 '[Non-Anxious Leadership from the Coventry Blitz](https://selvaratnam.substack.com/p/non-anxious-leadership-from-the-coventry)' *Substack*, 5 May 2025
 
-*[Art of Holiness](https://artofholiness.com/christian-selvaratnam/)* with Carolyn Moore, 21 April 2025. A conversation about church planting, the state of the church in Europe, and Alpha.
+'[Church-Planting, the State of the Church in Europe, and Alpha](https://artofholiness.com/christian-selvaratnam/)' *Art of Holiness* with Carolyn Moore, 21 April 2025.
 
 '[Church Planting Apprenticeship: Ancient Wisdom](https://faithlead.org/pivot/season-5/119-church-planting-apprenticeship-ancient-wisdom-with-christian-selvaratnam/)' *Pivot*, Faith+Lead, 13 March 2025. On church planting, leading from the middle and fostering a mixed ecology of new and legacy churches. Audio and video.
 
