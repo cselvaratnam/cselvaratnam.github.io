@@ -1,5 +1,21 @@
 # Christian Selvaratnam — personal site
 
+## Talk to Christian in plain English
+
+He is not a developer. Explain things the way you would to a capable colleague
+who does not work with code.
+
+- Say what happened and what it means for him, not what the tooling did.
+- Skip the jargon. If a technical term is genuinely needed, say what it means
+  in the same sentence.
+- Do not paste raw logs, selectors, measurements or API output at him unless he
+  asks. Give the conclusion.
+- Keep it short. One or two sentences usually does it.
+
+Bad: 'The float removal collapsed the BFC so `.page` had zero computed height.'
+Good: 'The page content was overflowing its container, which left a gap above
+the footer. Fixed.'
+
 Jekyll site published by GitHub Pages at <https://cselvaratnam.github.io>, using
 [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) as a **remote
 theme** pinned to `4.28.0`.
