@@ -5,13 +5,13 @@ permalink: /about/
 
 I am Dean of Church Planting at [St Hild College](https://www.sthild.org), Associate Minister of [St Stephen](https://www.acombparish.org), Acomb in York, and Director of Studies for the [Asbury Theological Seminary](https://asburyseminary.edu) Doctor of Ministry cohort in the UK and Europe.
 
-I am a practitioner theologian. My work sits at the intersection of scholarship, research and training, and nearly all of it is done alongside practitioners.
+I am a practitioner theologian. My work sits at the intersection of scholarship, research and training, and nearly all of it is done alongside practitioners. For thirty years my focus has been mission and discipleship, leadership development, church growth, church renewal and church planting. These seem to me the areas that matter most for the church today: the places where the church retains and rediscovers its authentic identity, and where it proclaims the gospel afresh to this generation. This work is being done in an era of long decline, but my outlook on the church is essentially hopeful. I see real hope in the churches I work with and in the people I train.
 
 At St Hild I founded the [St Hild Centre for Church Planting](https://www.sthildplanting.org), and I oversee the St Hild [Church Planting Track](https://www.sthild.org/church-planting-track) of Common Awards modules, [Seedbed](https://www.sthildplanting.org/seedbed) (a lay training pathway), [Camino](https://www.sthildplanting.org/camino) (a programme for resource church leaders) and a Doctor of Ministry programme with Asbury Seminary. I teach Anglican ordinands and Baptist ministers-in-training, experienced clergy and postgraduate students, and I supervise postgraduate research.
 
 A growing part of my work concerns intercultural mission and racial justice. I am of the Diocese of York's Intercultural Ministry Task Group. More widely, I am involved in a number of racial justice projects and in supporting intercultural churches.
 
-I write occasionally for the *Church Times* and for other local publications, and I have worked in audio for over twenty years — radio, long-form interviews and podcasts. I am also an editor for two academic book series.
+I write occasionally for various publications, and I have worked in audio for over twenty years — radio, long-form interviews and podcasts. I am also an editor for two book series.
 
 Before this I worked for fifteen years with [Alpha International](https://www.alpha.org), including as National Director. During that period I also served for fourteen years as the ordained leader of G2, a church plant from [The Belfrey (St Michael le Belfrey)](https://www.belfrey.org) in York, and as Pioneer Minister at The Belfrey.
 

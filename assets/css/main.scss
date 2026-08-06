@@ -35,6 +35,27 @@ search: false
   margin-inline: auto;
 }
 
+// `display: flow-root` is doing real work here, not tidying. Removing the
+// float above also removed the block formatting context that contained the
+// theme's floated `.page__inner-wrap`. Without it `.page` collapses to zero
+// height -- measured at 0px while its own content was 12,907px tall -- which
+// throws the spacing above the footer out. flow-root restores containment
+// without bringing the lopsided float back.
+//
+// `padding-top` gives the page title room to breathe under the masthead.
+// Do not move this to `.page__inner-wrap`: the theme targets that with a more
+// specific selector and will win.
+.page {
+  display: flow-root;
+  padding-top: 1.5em;
+}
+
+// The theme's own margin here stacked on top of the gap above, leaving a broad
+// band of white between the last paragraph and the footer.
+.page__footer {
+  margin-top: 0;
+}
+
 // ---------------------------------------------------------------------------
 // Hide the permalink chain-link icon the theme injects after every heading.
 //
