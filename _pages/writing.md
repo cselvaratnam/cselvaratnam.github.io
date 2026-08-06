@@ -7,9 +7,9 @@ permalink: /writing/
      proper blog -- dated posts in a `_posts` folder, listed automatically --
      say the word. -->
 
-Below are shorter pieces I have written — for the *Church Times*, for local
-publications and my own articles — together with some audio and video. My books
-are on the [books page](/books/).
+Shorter pieces — writing for the *Church Times*, for local publications and my
+own articles, along with radio, podcasts and video. My books are on the
+[books page](/books/).
 
 ## 2026
 
@@ -17,6 +17,13 @@ are on the [books page](/books/).
 *Substack*, 3 August 2026. Two days in Birmingham and Atlanta, and what they
 taught me: the civil rights movement had two tasks, and the second is
 unfinished.
+
+*Church Going, with Giles Fraser*
+BBC Radio 4, July 2026. I contributed to three episodes of Giles Fraser's
+series on the state of Christianity in England:
+[episode 1](https://www.bbc.co.uk/programmes/m002yvr9),
+[episode 2](https://www.bbc.co.uk/programmes/m002z9cq) and
+[episode 3](https://www.bbc.co.uk/programmes/m002zhng).
 
 ## 2025
 
@@ -26,6 +33,10 @@ than welcoming people of different backgrounds.
 
 '[Non-Anxious Leadership from the Coventry Blitz](https://selvaratnam.substack.com/p/non-anxious-leadership-from-the-coventry)'
 *Substack*, 5 May 2025
+
+'[Church Planting Apprenticeship: Ancient Wisdom](https://faithlead.org/pivot/season-5/119-church-planting-apprenticeship-ancient-wisdom-with-christian-selvaratnam/)'
+*Pivot*, Faith+Lead, 13 March 2025. On church planting, leading from the middle
+and fostering a mixed ecology of new and legacy churches. Audio and video.
 
 ## 2024
 
@@ -42,16 +53,3 @@ than merging struggling parishes.
 
 '[Why plant churches?](https://www.psephizo.com/life-ministry/why-plant-churches/)'
 *Psephizo*, 24 January 2024
-
-## Audio and video
-
-*Church Going, with Giles Fraser*
-BBC Radio 4, July 2026. I contributed to three episodes of Giles Fraser's
-series on the state of Christianity in England:
-[episode 1](https://www.bbc.co.uk/programmes/m002yvr9),
-[episode 2](https://www.bbc.co.uk/programmes/m002z9cq) and
-[episode 3](https://www.bbc.co.uk/programmes/m002zhng).
-
-'[Church Planting Apprenticeship: Ancient Wisdom](https://faithlead.org/pivot/season-5/119-church-planting-apprenticeship-ancient-wisdom-with-christian-selvaratnam/)'
-*Pivot*, Faith+Lead, 13 March 2025. On church planting, leading from the middle
-and fostering a mixed ecology of new and legacy churches. Audio and video.
