@@ -34,7 +34,10 @@ en-GB:
   comments_title             : "Comments"
   more_label                 : "Learn more"
   related_label              : "You may also enjoy"
-  follow_label               : "Follow:"
+  # follow_label deliberately omitted. The theme renders the footer label only
+  # if this key has a value, so leaving it out drops the "Follow:" text and its
+  # <strong> entirely. Setting it to "" would NOT work -- an empty string is
+  # truthy in Liquid, so you would get an empty bold tag instead.
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
