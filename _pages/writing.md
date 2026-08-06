@@ -3,8 +3,21 @@ title: "Writing"
 permalink: /writing/
 ---
 
-<!-- A hand-maintained list. If you would rather it became a proper blog --
-     dated posts in a `_posts` folder, listed automatically -- say the word. -->
+<!-- A hand-maintained list, newest first. If you would rather it became a
+     proper blog -- dated posts in a `_posts` folder, listed automatically --
+     say the word. -->
+
+## 2026
+
+**[Learning from the American Civil Rights Story](https://selvaratnam.substack.com/p/learning-from-the-american-civil)**
+*Substack*, 3 August 2026. Two days in Birmingham and Atlanta, and what they
+taught me: the civil rights movement had two tasks, and the second is
+unfinished.
+
+## 2025
+
+**[Non-Anxious Leadership from the Coventry Blitz](https://selvaratnam.substack.com/p/non-anxious-leadership-from-the-coventry)**
+*Substack*, 5 May 2025
 
 ## 2024
 
@@ -19,7 +32,5 @@ now belong in training for ordained ministry.
 *Church Times*, 7 June 2024. There is a better way to reverse falling attendance
 than merging struggling parishes.
 
-## Blog
-
 **[Why plant churches?](https://www.psephizo.com/life-ministry/why-plant-churches/)**
-*Psephizo*
+*Psephizo*, 24 January 2024
