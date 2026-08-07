@@ -187,6 +187,9 @@ own prose.
 **Do not name the two book series he edits.** 'An editor for two academic book
 series' is as far as it goes.
 
+**'Practical theologian', not 'practitioner theologian'.** Both appeared on the
+site at one point; practical is the settled form.
+
 Link text should describe its destination ('the books page'), not be a bare
 'here'.
 
