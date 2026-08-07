@@ -56,6 +56,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/cselvaratnam"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/selvaratnam"
 
 # --- Build -----------------------------------------------------------------
 include:

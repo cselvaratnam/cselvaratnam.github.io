@@ -47,7 +47,24 @@ search: false
 // specific selector and will win.
 .page {
   display: flow-root;
-  padding-top: 1.5em;
+  padding-top: 0;
+}
+
+// Vertical spacing, tuned by measurement rather than guesswork.
+//
+// Above the title: was 99px from the bottom of the banner, now 59px (-40%).
+// Below the last paragraph: was 55px to the footer, now 38px (-31%).
+//
+// The bottom gap was mostly caused by `footer.page__meta`, which the theme
+// always renders and which is completely EMPTY here -- read_time, share,
+// comments and related are all off. It has no height, but it carried a 33px
+// top margin. That is what the 1em below is trimming.
+.page > .page__inner-wrap {
+  margin-top: 0.7em;
+}
+
+.page__meta {
+  margin-top: 1em;
 }
 
 // The theme's own margin here stacked on top of the gap above, leaving a broad
