@@ -190,6 +190,12 @@ series' is as far as it goes.
 Link text should describe its destination ('the books page'), not be a bare
 'here'.
 
+**No empty flourishes.** Every clause must carry a fact — what a piece argues,
+what it draws on, a number, a name. Cut anything that characterises the work
+instead of informing about it: 'an honest account of…', 'a fascinating
+exploration of…', 'a thoughtful reflection on…'. If a clause could be attached
+to any book on the shelf, it is not earning its place.
+
 ## Links
 
 **Verify every external link before publishing it** — several on Christian's

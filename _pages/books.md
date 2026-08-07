@@ -24,7 +24,7 @@ A short study of why the Alpha course and church planting fit together so natura
 Drawing on the medieval craft guilds, where an apprentice advanced by producing real work rather than by finishing a course, this chapter asks what that older way of forming people might offer the training of church planters now.
 
 'Reclaiming the Missing Generation', in Winfield Bevins (ed.), [Global Voices: Stories of Church Planting from Around the World](https://asburychurchplanting.com/wp-content/uploads/Global_Voices.pdf), (Asbury Theological Seminary, 2019).
-A case study of G2, the church plant I led in York, which reached the millennial generation largely by apprenticing new leaders — to the point where the typical Sunday preacher was 22 — and an honest account of what that cost.
+A case study of G2, the church plant I led in York, which reached the millennial generation largely by apprenticing new leaders — to the point where the typical Sunday preacher was 22.
 
 ## Forthcoming
 
