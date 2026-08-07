@@ -33,11 +33,10 @@ I teach these Common Awards modules.
 
 I am the Director of Studies for a UK and Europe based Doctor of Ministry programme awarded by Asbury Theological Seminary in Kentucky. 
 
-Mission Entrepreneurship and Church Multiplication (2027–2030)
+- Mission Entrepreneurship and Church Multiplication (2027–2030)
 
-Church Planting in Evangelical, Sacramental and Pentecostal Perspective (2024–2027)
-
-Church Planting in Post-Christendom Europe (2021–2024)
+- ~~Church Planting in Evangelical, Sacramental and Pentecostal Perspective (2024–2027)~~
+- ~~Church Planting in Post-Christendom Europe (2021–2024)~~
 
 ## Other courses
 
