@@ -11,23 +11,22 @@ Most of my teaching is with St Hild College, from short courses for lay people t
 
 I deliver the following courses at St Hild College.
 
-[Seedbed](https://sthildplanting.org/seedbed) a lay training pathway.
+- [Seedbed](https://sthildplanting.org/seedbed) a lay training pathway.
 
-[Camino](https://sthildplanting.org/camino) training for resource church leaders.
+- [Camino](https://sthildplanting.org/camino) training for resource church leaders.
 
 ## Common Awards
 
 I teach these Common Awards modules.
 
-[Creating New Christian Communities (TMM1397)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1397.pdf) Level 4.
+- [Creating New Christian Communities (TMM1397)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1397.pdf) Level 4.
+- [Introduction to Christian Discipleship (TMM1517)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1517.pdf) Level 4.
 
-[Introduction to Christian Discipleship (TMM1517)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1517.pdf) Level 4.
+- [Aspects of Spirituality and Ministry (TMM2577)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-5/TMM2577.pdf) Level 5.
 
-[Aspects of Spirituality and Ministry (TMM2577)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-5/TMM2577.pdf) Level 5.
+- [Church Planting in Perspective (TMM3861)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-6/TMM3861.pdf) Level 6.
 
-[Church Planting in Perspective (TMM3861)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-6/TMM3861.pdf) Level 6.
-
-[Advanced Church Planting in Perspective (TMM46120)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-7/TMM46120.pdf) Level 7.
+- [Advanced Church Planting in Perspective (TMM46120)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-7/TMM46120.pdf) Level 7.
 
 ## Doctor of Ministry
 
@@ -40,7 +39,7 @@ I am the Director of Studies for a UK and Europe based Doctor of Ministry progra
 
 ## Other courses
 
-[Explore Church Planting](https://ccx.org.uk/explore-church-planting/) a five-part film series for churches exploring church planting.
+- [Explore Church Planting](https://ccx.org.uk/explore-church-planting/) a five-part film series for churches exploring church planting.
 
 ## Research and supervision interests
 
