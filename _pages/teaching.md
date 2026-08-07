@@ -5,48 +5,49 @@ header:
   image: /assets/images/banner3.jpg
 ---
 
-Most of my teaching is with St Hild College, running from short courses for lay people through to doctoral supervision. I am always glad to hear from prospective research students.
+Most of my teaching is with St Hild College, from short courses for lay people through to doctoral supervision. I am always glad to hear from prospective research students.
 
 ## Courses
 
-[Church Planting Track](https://sthild.org/church-planting-track)
-St Hild College
+I deliver the following courses at St Hild College.
 
-[Seedbed](https://sthildplanting.org/seedbed)
-St Hild Centre for Church Planting — a lay training pathway
+[Seedbed](https://sthildplanting.org/seedbed) a lay training pathway.
 
-[Camino](https://sthildplanting.org/camino)
-St Hild Centre for Church Planting — for resource church leaders
+[Camino](https://sthildplanting.org/camino) training for resource church leaders.
 
-[Church Planting in Evangelical, Sacramental and Pentecostal Perspective](https://asburyseminary.edu/degrees/doctor-of-ministry/cohorts/church-planting-evangelical-sacramental-pentecostal-perspective/)
-Doctor of Ministry cohort, Asbury Theological Seminary
+## Common Awards
 
-[Explore Church Planting](https://ccx.org.uk/explore-church-planting/)
-CCX — a five-part film series
+I teach these Common Awards modules.
 
-## Common Awards modules
+[Creating New Christian Communities (TMM1397)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1397.pdf) Level 4.
 
-Modules I have written and teach, validated by Durham University.
+[Introduction to Christian Discipleship (TMM1517)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1517.pdf) Level 4.
 
-[Creating New Christian Communities (TMM1397)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1397.pdf)
-Level 4 *(PDF)*
+[Aspects of Spirituality and Ministry (TMM2577)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-5/TMM2577.pdf) Level 5.
 
-[Introduction to Christian Discipleship (TMM1517)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1517.pdf)
-Level 4 *(PDF)*
+[Church Planting in Perspective (TMM3861)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-6/TMM3861.pdf) Level 6.
 
-[Aspects of Spirituality and Ministry (TMM2577)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-5/TMM2577.pdf)
-Level 5 *(PDF)*
+[Advanced Church Planting in Perspective (TMM46120)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-7/TMM46120.pdf) Level 7.
 
-[Church Planting in Perspective (TMM3861)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-6/TMM3861.pdf)
-Level 6 *(PDF)*
+## Doctor of Ministry
 
-[Advanced Church Planting in Perspective (TMM46120)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-7/TMM46120.pdf)
-Level 7 *(PDF)*
+I am the Director of Studies for a UK and Europe based Doctor of Ministry programme awarded by Asbury Theological Seminary in Kentucky. 
+
+Mission Entrepreneurship and Church Multiplication (2027–2030)
+
+Church Planting in Evangelical, Sacramental and Pentecostal Perspective (2024–2027)
+
+Church Planting in Post-Christendom Europe (2021–2024)
+
+## Other courses
+
+[Explore Church Planting](https://ccx.org.uk/explore-church-planting/) a five-part film series for churches exploring church planting.
 
 ## Research and supervision interests
 
 - Church planting and church planting movements.
 - Mission theology, missiology and church growth.
-- Intercultural ecclesiology and mixed-ecology models of church.
+- Mixed-ecology models of church.
 - Leadership development, apprenticeship and ministerial formation.
 - Artificial intelligence in theological education and Christian ministry.
+- Racial justice and interculteral church.
