@@ -9,6 +9,9 @@ Most of what I write comes from thirty years of starting churches and curiosity 
 
 ## Books
 
+**Exploring the Mixed Ecology of Church: How Churches Thrive Together** (Grove Books, 2026).
+*A primer on the emerging ecclesiology known as the mixed ecology of church, tracing the history of the term and setting out several theological rationales for it. It also identifies key practical questions facing churches and networks.*
+
 **[Why Plant Churches? Theological and Practical Reasons](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/)** (Grove Books, 2023).
 *Church planting is often reduced to a task of mission. This book sets out the wider theological and practical reasons for planting, and the benefits it brings to the wider church.*
 
@@ -27,9 +30,6 @@ Most of what I write comes from thirty years of starting churches and curiosity 
 *A case study of G2, the church plant I led in York, which reached the millennial generation largely by apprenticing new leaders.*
 
 ## Forthcoming
-
-**Exploring the Mixed Ecology of Church: How Churches Thrive Together** (Grove Books, 2026).
-*A primer on the emerging ecclesiology known as the mixed ecology of church, tracing the history of the term and setting out several theological rationales for it. It also identifies key practical questions facing churches and networks.*
 
 **From Every Nation: Becoming an Intercultural Church in a Multicultural Age** (due 2027).
 *Based on research with fifty intercultural church practitioners, this book explores the theological rationale and practical models for intercultural church. In an increasingly multicultural society, most churches now serve a diverse catchment.*
