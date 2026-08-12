@@ -36,3 +36,19 @@ Most of what I write comes from thirty years of starting churches and curiosity 
 
 **Discipleship Revolution: The Wesleys and the Shape of a Methodist Movement** (due 2027).
 *An account of the Wesley family and the early British Methodists. It draws out discipleship lessons from the period that can be relearned today.*
+
+{% comment %}
+------------------------------------------------------------------------------
+HELD BACK until John Valentine's book is published. To publish it, delete the
+line above that begins `{% comment %}` and the `{% endcomment %}` line below.
+
+Deliberately a Liquid comment, not an HTML one. Jekyll strips this at build
+time, so not a word of it reaches the browser. An HTML comment would still be
+sitting in the page source for anyone who looked.
+------------------------------------------------------------------------------
+
+## Discussed elsewhere
+
+My book *The Craft of Church Planting* receives dedicated treatment in John Valentine's *The Seminary Goes to Church: Training and Formation for the Future of Christian Ministry*, a study arguing that ministerial formation should be relocated from the academy to the local church.
+
+{% endcomment %}
