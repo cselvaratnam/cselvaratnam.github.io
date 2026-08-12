@@ -86,5 +86,53 @@ search: false
 }
 
 // ---------------------------------------------------------------------------
+// Accordion sections (Teaching page).
+//
+// The exclusive behaviour -- open one, the rest close -- comes from the shared
+// `name` attribute on <details>, which is native HTML. No JavaScript. Styling
+// here just makes the summary read like the headings it replaced.
+// ---------------------------------------------------------------------------
+
+details.accordion {
+  border-top: 1px solid rgba(128, 128, 128, 0.25);
+
+  &:last-of-type {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+  }
+
+  > summary {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.15em;
+    padding: 0.75em 1.5em 0.75em 0;
+    position: relative;
+    list-style: none; // hides the default triangle
+
+    &::-webkit-details-marker {
+      display: none; // Safari needs telling separately
+    }
+
+    &::after {
+      content: "+";
+      position: absolute;
+      inset-inline-end: 0;
+      font-weight: normal;
+    }
+  }
+
+  &[open] > summary::after {
+    content: "\2212"; // minus sign, not a hyphen
+  }
+
+  &[open] {
+    padding-bottom: 0.5em;
+  }
+
+  > summary + * {
+    margin-top: 0;
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Your own overrides go below. They load after the theme, so they win.
 // ---------------------------------------------------------------------------

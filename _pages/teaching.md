@@ -7,14 +7,23 @@ header:
 
 Most of my teaching is with St Hild College, from short courses for lay people through to doctoral supervision. I am always glad to hear from prospective research students.
 
-## Courses
+<!-- Accordion sections. The shared `name="teaching"` is what makes them
+     exclusive: opening one closes the others, with no JavaScript involved.
+     `markdown="1"` tells Jekyll to keep processing Markdown inside the tag --
+     without it the lists below would appear as raw text. -->
+
+<details class="accordion" name="teaching" markdown="1" open>
+<summary>Courses</summary>
 
 I deliver the following courses at St Hild College.
 
 - [Seedbed](https://sthildplanting.org/seedbed) a lay training pathway.
 - [Camino](https://sthildplanting.org/camino) training for resource church leaders.
 
-## Common Awards
+</details>
+
+<details class="accordion" name="teaching" markdown="1">
+<summary>Common Awards</summary>
 
 I teach these Common Awards modules.
 
@@ -24,23 +33,34 @@ I teach these Common Awards modules.
 - [Church Planting in Perspective (TMM3861)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-6/TMM3861.pdf) Level 6.
 - [Advanced Church Planting in Perspective (TMM46120)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-7/TMM46120.pdf) Level 7.
 
-## Doctor of Ministry
+</details>
 
-I am the Director of Studies for a UK and Europe based Doctor of Ministry programme awarded by Asbury Theological Seminary in Kentucky. 
+<details class="accordion" name="teaching" markdown="1">
+<summary>Doctor of Ministry</summary>
+
+I am the Director of Studies for a UK and Europe based Doctor of Ministry programme awarded by Asbury Theological Seminary in Kentucky.
 
 - Mission Entrepreneurship and Church Multiplication (2027–2030)
 - ~~Church Planting in Evangelical, Sacramental and Pentecostal Perspective (2024–2027)~~
 - ~~Church Planting in Post-Christendom Europe (2021–2024)~~
 
-## Other courses
+</details>
+
+<details class="accordion" name="teaching" markdown="1">
+<summary>Other courses</summary>
 
 - [Explore Church Planting](https://ccx.org.uk/explore-church-planting/) a five-part film series for churches exploring church planting.
 
-## Research and supervision interests
+</details>
+
+<details class="accordion" name="teaching" markdown="1">
+<summary>Research and supervision interests</summary>
 
 - Church planting and church planting movements.
 - Mission theology, missiology and church growth.
 - Mixed-ecology models of church.
 - Leadership development, apprenticeship and ministerial formation.
 - Artificial intelligence in theological education and Christian ministry.
-- Racial justice and interculteral church.
+- Racial justice and intercultural church.
+
+</details>
