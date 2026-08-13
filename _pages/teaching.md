@@ -5,7 +5,7 @@ header:
   image: /assets/images/banner3.jpg
 ---
 
-Most of my teaching is with St Hild College, from short courses for lay people through to doctoral supervision.
+Most of my teaching is with St Hild College, from short courses for lay people through to doctoral programmes.
 
 <!-- Accordion sections. The shared `name="teaching"` is what makes them
      exclusive: opening one closes the others, with no JavaScript involved.

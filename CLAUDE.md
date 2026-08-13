@@ -96,6 +96,33 @@ To change the look, set `minimal_mistakes_skin` in `_config.yml` to one of:
 `sunrise`. Restart `jekyll serve` after editing `_config.yml` — it is the one
 file Jekyll does not reload.
 
+## Accordions
+
+Books, Writing and Teaching use collapsible sections instead of headings. The
+pattern:
+
+```html
+<details class="accordion" name="books" markdown="1" open>
+<summary>Books</summary>
+
+...Markdown as normal...
+
+</details>
+```
+
+Three things matter, and each will bite if dropped:
+
+- **`name`** — sections sharing a name are mutually exclusive: opening one
+  closes the rest. This is native HTML, no JavaScript. Every section on a page
+  must share the same name, and it must differ between pages.
+- **`markdown="1"`** — without it Jekyll stops processing Markdown inside the
+  tag and the lists render as raw text with the dashes showing.
+- **`open`** on the first section only, so the page is not a wall of shut
+  drawers on arrival.
+
+Styling lives under `details.accordion` in `main.scss`. Because summaries
+replace the `<h2>`s, these pages have no headings, and so no permalink icons.
+
 ## Structure
 
 | File | Purpose |
@@ -105,11 +132,18 @@ file Jekyll does not reload.
 | `_data/navigation.yml` | The masthead nav |
 | `_data/ui-text.yml` | Theme interface strings — see above |
 | `_config.yml` | All configuration, including the single-column defaults |
-| `assets/images/` | Images, incl. `banner.jpg` used as the home page header |
+| `assets/images/` | `banner1.jpg`–`banner5.jpg`, one header image per page |
 | `assets/documents/` | PDFs linked from the site |
-| `assets/css/main.scss` | Optional custom CSS; safe to delete |
+| `assets/css/main.scss` | Custom CSS. **Not** optional — see below |
 
-Four pages only. Do not add pages, posts or a `_posts` collection unless asked.
+Five pages: Welcome, About, Books, Writing, Teaching. Do not add pages, posts or
+a `_posts` collection unless asked.
+
+`main.scss` is load-bearing. It holds the single-column fix, the accordion
+styling, the hiding of the theme's permalink icons and the vertical spacing
+Christian tuned by eye. Deleting it breaks the layout in ways that are not
+obvious at a glance. Every block in it carries a comment explaining what it is
+for; read those before removing anything.
 
 ## Publishing
 
@@ -193,6 +227,22 @@ site at one point; practical is the settled form.
 Link text should describe its destination ('the books page'), not be a bare
 'here'.
 
+### The Writing page
+
+Every entry ends with its type in brackets: `(article)`, `(blog)`, `(podcast)`,
+`(audio)`, `(video)`, `(radio)`. One label per entry — if something exists in
+two forms, link the second inline ('Also on [video](…)') rather than writing
+'audio and video'.
+
+**One event, one entry.** Several talks from the same conference or series go
+in a single entry with the event in italics and the individual talks as links
+in the sentence. See *Church Going* (three BBC episodes), *LED24* (two Norwegian
+talks) and *Development Day* (a keynote and a workshop).
+
+**Distinguish the event from the talk.** The event goes in italics, a talk's own
+title in quotes. Do not manufacture a title for an untitled talk — 'Keynote
+Address' in quotes was wrong; the keynote at *Development Day* is right.
+
 **No empty flourishes.** Every clause must carry a fact — what a piece argues,
 what it draws on, a number, a name. Cut anything that characterises the work
 instead of informing about it: 'an honest account of…', 'a fascinating
@@ -206,14 +256,48 @@ linktree are dead. Check with `curl -sIL -o /dev/null -w "%{http_code}"`.
 
 These hosts return 403/999 to `curl` but are fine in a browser — do not treat
 them as broken: `scmpress.hymnsam.co.uk`, `churchtimes.co.uk`,
-`asburyseminary.edu`, `linkedin.com`. The in-app browser gets through where
-`curl` cannot, and the *Church Times* author page is a useful index.
+`asburyseminary.edu`, `durham.ac.uk`, `linkedin.com`. Pass a real browser
+user-agent and most of them answer; the in-app browser gets through where
+`curl` cannot. The *Church Times* author page is a useful index.
 
 Never invent a URL. If no working link exists, leave the entry unlinked and say
 so.
+
+**Resolve redirect and tracking links before using them.** Christian often
+pastes `google.com/goto?url=…` links from search results. Follow them to the
+real destination and use that, then strip tracking parameters (`?autoplay=true`
+and the like). Those wrappers are opaque, carry tracking, and will rot.
+
+```bash
+curl -s -o /dev/null -w '%{url_effective}' -L -A "<browser UA>" "<url>"
+```
+
+Check for duplicates while you are at it — the last batch of thirteen links
+turned out to be nine, and one was already on the page.
+
+## Holding content back
+
+For something written but not yet publishable — an unpublished book, an
+unannounced role — wrap it in a **Liquid** comment:
+
+```liquid
+{% comment %} … {% endcomment %}
+```
+
+Jekyll strips this at build time, so it never reaches the browser. Do **not**
+use an HTML comment for this. HTML comments are hidden from view but still sit
+in the page source for anyone who looks, which is not the same as private.
 
 ## Care
 
 Ask before publishing anything personal or third-party — email addresses, PDFs
 of other organisations' publications, photographs of people. Git history is
 public and effectively permanent.
+
+His email appears on the landing page, but **written out in words** —
+`christian [dot] selvaratnam [at] gmail [dot] com` — to keep it away from
+scrapers. Keep it that way; do not tidy it into a `mailto:` link.
+
+Christian's *Register of Ministers* CV (in Dropbox) is a useful source for roles
+and dates, but its Section 1 holds his home address, mobile number and date of
+birth. Never let anything from that section near the site.
