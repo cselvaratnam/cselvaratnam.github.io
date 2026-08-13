@@ -25,7 +25,7 @@ I deliver the following courses at St Hild College.
 <details class="accordion" name="teaching" markdown="1">
 <summary>Common Awards</summary>
 
-I teach these Common Awards modules.
+Common Awards is the partnership through which Durham University validates the theology, ministry and mission programmes taught in theological colleges, for the Church of England and other participating churches. I lead the [Church Planting Track](https://sthild.org/church-planting-track) at St Hild, the route for students taking church planting as their area of focus, and I teach the modules below.
 
 - [Creating New Christian Communities (TMM1397)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1397.pdf) Level 4.
 - [Introduction to Christian Discipleship (TMM1517)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1517.pdf) Level 4.
@@ -56,7 +56,7 @@ I am the Director of Studies for a UK and Europe based Doctor of Ministry progra
 <details class="accordion" name="teaching" markdown="1">
 <summary>Research and supervision interests</summary>
 
-My particular areas of expertise are church planting, church growth and ministerial formation, and I have an emerging interest in the use of artificial intelligence in education and in racial justice and intercultural church. I am always glad to hear from prospective research students.
+My particular areas of expertise are church planting, church growth and ministerial formation, and I have emerging interest in the use of artificial intelligence in education and in racial justice and intercultural church. I am always glad to hear from prospective research students.
 
 - Church planting and church planting movements.
 - Mission theology, missiology and church growth.
