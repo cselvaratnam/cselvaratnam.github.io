@@ -59,6 +59,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/selvaratnam"
+    - label: "Substack"
+      icon: "fab fa-fw fa-substack"
+      url: "https://selvaratnam.substack.com"
 
 # --- Build -----------------------------------------------------------------
 include:
