@@ -98,7 +98,7 @@ file Jekyll does not reload.
 
 ## Accordions
 
-Books, Writing and Teaching use collapsible sections instead of headings. The
+Books, Writing and Courses use collapsible sections instead of headings. The
 pattern:
 
 ```html
@@ -128,7 +128,7 @@ replace the `<h2>`s, these pages have no headings, and so no permalink icons.
 | File | Purpose |
 |---|---|
 | `index.md` | Landing page (`permalink: /`) |
-| `_pages/*.md` | About, Books, Writing, Teaching — each with its own `permalink` |
+| `_pages/*.md` | About, Books, Writing, Courses — each with its own `permalink` |
 | `_data/navigation.yml` | The masthead nav |
 | `_data/ui-text.yml` | Theme interface strings — see above |
 | `_config.yml` | All configuration, including the single-column defaults |
@@ -136,7 +136,8 @@ replace the `<h2>`s, these pages have no headings, and so no permalink icons.
 | `assets/documents/` | PDFs linked from the site |
 | `assets/css/main.scss` | Custom CSS. **Not** optional — see below |
 
-Five pages: Welcome, About, Books, Writing, Teaching. Do not add pages, posts or
+Five pages: Welcome, About, Books, Writing, Courses. The Courses page was
+called Teaching until 6 August 2026; `/teaching/` is now a dead URL. Do not add pages, posts or
 a `_posts` collection unless asked.
 
 `main.scss` is load-bearing. It holds the single-column fix, the accordion

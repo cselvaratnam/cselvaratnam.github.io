@@ -1,19 +1,19 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Courses"
+permalink: /courses/
 header:
   image: /assets/images/banner3.jpg
 ---
 
 Most of my teaching is with St Hild College, from short courses for lay people through to doctoral programmes.
 
-<!-- Accordion sections. The shared `name="teaching"` is what makes them
+<!-- Accordion sections. The shared `name="courses"` is what makes them
      exclusive: opening one closes the others, with no JavaScript involved.
      `markdown="1"` tells Jekyll to keep processing Markdown inside the tag --
      without it the lists below would appear as raw text. -->
 
-<details class="accordion" name="teaching" markdown="1" open>
-<summary>Courses</summary>
+<details class="accordion" name="courses" markdown="1" open>
+<summary>Training pathways</summary>
 
 I deliver the following courses at St Hild College.
 
@@ -22,7 +22,7 @@ I deliver the following courses at St Hild College.
 
 </details>
 
-<details class="accordion" name="teaching" markdown="1">
+<details class="accordion" name="courses" markdown="1">
 <summary>Common Awards</summary>
 
 Common Awards is the partnership through which Durham University validates the programmes taught in most theological colleges. I lead the [Church Planting Track](https://sthild.org/church-planting-track) at St Hild, the route for students taking church planting as their area of focus, and I teach the Common Awards modules below.
@@ -35,7 +35,7 @@ Common Awards is the partnership through which Durham University validates the p
 
 </details>
 
-<details class="accordion" name="teaching" markdown="1">
+<details class="accordion" name="courses" markdown="1">
 <summary>Doctor of Ministry</summary>
 
 I am the Director of Studies for a UK and Europe based Doctor of Ministry programme awarded by Asbury Theological Seminary in Kentucky.
@@ -46,14 +46,14 @@ I am the Director of Studies for a UK and Europe based Doctor of Ministry progra
 
 </details>
 
-<details class="accordion" name="teaching" markdown="1">
-<summary>Other courses</summary>
+<details class="accordion" name="courses" markdown="1">
+<summary>Courses elsewhere</summary>
 
 - [Explore Church Planting](https://ccx.org.uk/explore-church-planting/) a five-part film series for churches exploring church planting.
 
 </details>
 
-<details class="accordion" name="teaching" markdown="1">
+<details class="accordion" name="courses" markdown="1">
 <summary>Research and supervision interests</summary>
 
 My areas of expertise are church planting, church growth and ministerial formation, and I have emerging interest in the use of artificial intelligence in education and in racial justice and intercultural church. I am always glad to hear from prospective research students.
