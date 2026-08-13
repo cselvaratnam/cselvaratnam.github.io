@@ -215,9 +215,12 @@ Dr' does not belong in his own prose.
 **'The Belfrey' always takes a capital T**, including mid-sentence. Never 'the
 Belfrey'. Full name on first use: The Belfrey (St Michael le Belfrey).
 
-**'Revd', never 'Rev'd' or 'Rev.'** The full title — Revd Canon Dr Christian
-Selvaratnam — belongs in the About page heading only. It never appears in his
-own prose.
+**'Revd', never 'Rev'd' or 'Rev.'** The full title is The Revd Canon Dr
+Christian Selvaratnam. He now uses it in the opening line of the About page
+('I am The Revd Canon Dr **Christian Selvaratnam**, Dean of…'), where the page
+is doing the job of a formal biography. Keep it to that one place — it does not
+belong on the home page, in the Books or Writing pages, or anywhere else he
+writes in his own voice.
 
 **Do not name the two book series he edits.** 'An editor for two academic book
 series' is as far as it goes.
