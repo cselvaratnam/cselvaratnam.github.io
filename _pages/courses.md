@@ -17,8 +17,9 @@ Most of my teaching is with St Hild College, from short courses for lay people t
 
 I deliver the following courses at St Hild College.
 
-- [Seedbed](https://sthildplanting.org/seedbed) a lay training pathway.
-- [Camino](https://sthildplanting.org/camino) training for resource church leaders.
+- [Seedbed](https://sthildplanting.org/seedbed) 28-session evening online training for lay people exploring vocations in church planting.
+- [Seedbed: Starting microchurches](https://sthildplanting.org/seedbed) an 18-hour hybrid training and coaching programme equipping lay leaders to start and lead microchurches.
+- [Camino](https://sthildplanting.org/camino) a 16-month teaching and coaching programme for resource church and oversight leaders.
 
 </details>
 
