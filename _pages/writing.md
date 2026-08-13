@@ -48,7 +48,7 @@ Below are links to my writing, and also to audio and video. My books are on the 
 
 '[Exploring Social Dynamics within the Mixed Ecology of Church](https://www.youtube.com/watch?v=dH21m_El8DM)' The Bede Centre for Church Planting Theology, 27 March 2024. (video)
 
-*New Wine Leadership Conference*, Harrogate, February 2024. A [keynote address](https://new-wine.online/programs/3-christian-selvaratnam-893422). Behind New Wine's paywall. (video)
+'[Resilience in Ministry](https://new-wine.online/programs/3-christian-selvaratnam-893422)' a keynote at the *New Wine Leadership Conference*, Harrogate, February 2024. (video)
 
 *LED24*, Pinsebevegelsen i Norge, February 2024. Two talks at a leadership conference in Norway: [how to train leaders](https://www.youtube.com/watch?v=yoa39NzxL3M) and [how to recruit leaders](https://www.youtube.com/watch?v=OzRHBvbe21k). (video)
 
