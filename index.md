@@ -13,6 +13,4 @@ This is a small site, somewhere to keep my work in one place: the [books and cha
 
 ---
 
-I am always glad to hear from people about church planting, research supervision, or speaking.
-
-christian [dot] selvaratnam [at] gmail [dot] com
+I am always glad to hear from people about church planting, research supervision, or speaking. Contact me at christian [dot] selvaratnam [at] gmail [dot] com.
