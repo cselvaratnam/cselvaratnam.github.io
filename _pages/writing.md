@@ -38,9 +38,7 @@ Below are links to my writing, and also to audio and video. My books are on the 
 <details class="accordion" name="writing" markdown="1">
 <summary>2024</summary>
 
-'[Development Day: Developing Speakers and Preachers](https://www.youtube.com/watch?v=8DswylRUwdc)' Diocese of Sheffield, 14 October 2024. A workshop. (video)
-
-'[Development Day: Keynote Address](https://www.youtube.com/watch?v=Cb8jl-L3ZDk)' Diocese of Sheffield, 10 October 2024. (video)
+*Development Day*, Diocese of Sheffield, October 2024. The [keynote address](https://www.youtube.com/watch?v=Cb8jl-L3ZDk), and a workshop on [developing speakers and preachers](https://www.youtube.com/watch?v=8DswylRUwdc). (video)
 
 '[Michaelmas ordinations: Putting on the full armour of God](https://www.churchtimes.co.uk/articles/2024/4-october/features/features/michaelmas-ordinations-putting-on-the-full-armour-of-god)' *Church Times*, 4 October 2024. Why understanding trauma and building resilience now belong in training for ordained ministry. (article)
 
