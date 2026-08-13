@@ -11,7 +11,7 @@ As a practical theologian, my work sits at the intersection of scholarship, rese
 
 At St Hild I founded the [St Hild Centre for Church Planting](https://www.sthildplanting.org), and I oversee the St Hild [Church Planting Track](https://www.sthild.org/church-planting-track) of Common Awards modules, [Seedbed](https://www.sthildplanting.org/seedbed) (a lay training pathway), [Camino](https://www.sthildplanting.org/camino) (a programme for resource church leaders) and a Doctor of Ministry programme with Asbury Seminary. I teach Anglican ordinands and Baptist ministers-in-training, experienced clergy and postgraduate students, and I supervise postgraduate research.
 
-A growing part of my work concerns intercultural mission and racial justice. I am a member of the Diocese of York's Intercultural Ministry Task Group. More widely, I am involved in a number of racial justice projects and in supporting intercultural churches.
+A growing part of my work concerns intercultural mission and racial justice. I am a member of the Diocese of York's Intercultural Ministry Task Group, and more widely I am involved in a number of racial justice projects and in supporting intercultural churches. I also have an emerging interest in the use of artificial intelligence in education and ministry.
 
 I write from time to time for various publications, and am an occasional guest on podcasts and radio programmes. I am also an editor for two book series.
 

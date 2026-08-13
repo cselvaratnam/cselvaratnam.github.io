@@ -53,7 +53,7 @@ Recruitment is now open for the next cohort, *Mission Entrepreneurship and Churc
 <details class="accordion" name="courses" markdown="1">
 <summary>Research and supervision interests</summary>
 
-My areas of expertise are church planting, church growth and ministerial formation, and I have emerging interest in the use of artificial intelligence in education and ministry, and in racial justice and intercultural church. I am always glad to hear from prospective research students.
+My areas of particular expertise are church planting, church growth and ministerial formation, and I have emerging interest in the use of artificial intelligence in education and ministry, and in racial justice and intercultural church. I am always glad to hear from prospective research students.
 
 - Church planting and church planting movements.
 - Mission theology, missiology and church growth.
