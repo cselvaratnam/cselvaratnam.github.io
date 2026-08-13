@@ -5,7 +5,7 @@ header:
   image: /assets/images/banner2.jpg
 ---
 
-Below are links to my writing, and also to audio and video. My books are on the [books page](/books/).
+Below are articles and blog posts, along with talks, interviews and broadcasts. My books are on the [books page](/books/).
 
 <details class="accordion" name="writing" markdown="1" open>
 <summary>2026</summary>
