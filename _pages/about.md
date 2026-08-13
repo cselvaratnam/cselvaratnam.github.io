@@ -15,7 +15,7 @@ A growing part of my work concerns intercultural mission and racial justice. I a
 
 I write from time to time for various publications, and am an occasional guest on podcasts and radio programmes. I am also an editor for two book series.
 
-I worked for fifteen years with [Alpha International](https://www.alpha.org), including as National Director. During that period I also served for fourteen years as the ordained leader of G2, a church plant from [The Belfrey (St Michael le Belfrey)](https://www.belfrey.org) in York, and as Pioneer Minister at The Belfrey.
+I worked for fifteen years with [Alpha International](https://www.alpha.org), first as a Regional Director and later as National Director. During that period I also served for fourteen years as the ordained leader of G2, a church plant from [The Belfrey (St Michael le Belfrey)](https://www.belfrey.org) in York, and as Pioneer Minister at The Belfrey.
 
 I read Mathematics and Theoretical Computation at the University of Warwick. My first job was as a Church of England verger in Coventry. I went on to manage a printing business and to serve as a pastor and church planter with Newfrontiers.
 

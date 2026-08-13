@@ -5,7 +5,7 @@ header:
   image: /assets/images/banner3.jpg
 ---
 
-Most of my teaching is with St Hild College, from short courses for lay people through to doctoral supervision. I am always glad to hear from prospective research students.
+Most of my teaching is with St Hild College, from short courses for lay people through to doctoral supervision.
 
 <!-- Accordion sections. The shared `name="teaching"` is what makes them
      exclusive: opening one closes the others, with no JavaScript involved.
@@ -55,6 +55,8 @@ I am the Director of Studies for a UK and Europe based Doctor of Ministry progra
 
 <details class="accordion" name="teaching" markdown="1">
 <summary>Research and supervision interests</summary>
+
+My particular areas of expertise are church planting, church growth and ministerial formation, and I have an emerging interest in the use of artificial intelligence in education and in racial justice and intercultural church. I am always glad to hear from prospective research students.
 
 - Church planting and church planting movements.
 - Mission theology, missiology and church growth.
