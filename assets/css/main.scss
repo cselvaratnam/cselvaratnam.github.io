@@ -144,5 +144,16 @@ details.accordion {
 }
 
 // ---------------------------------------------------------------------------
+// Descriptions under each book and chapter. Grey rather than italic: italics
+// over three or four lines slow reading down, and they clashed with the
+// italics used for titles. `$muted-text-color` is the theme's own grey, so
+// this follows if the skin ever changes.
+// ---------------------------------------------------------------------------
+
+.note {
+  color: $muted-text-color;
+}
+
+// ---------------------------------------------------------------------------
 // Your own overrides go below. They load after the theme, so they win.
 // ---------------------------------------------------------------------------
