@@ -25,7 +25,7 @@ I deliver the following courses at St Hild College.
 <details class="accordion" name="courses" markdown="1">
 <summary>Common Awards</summary>
 
-Common Awards is the partnership through which Durham University validates the programmes taught in most theological colleges. I lead the [Church Planting Track](https://sthild.org/church-planting-track) at St Hild, the route for students taking church planting as their area of focus, and I teach the Common Awards modules below.
+Common Awards is the partnership through which Durham University validates the programmes taught in theological colleges across England, Wales and Scotland, for the Church of England and its main ecumenical partners. I lead the [Church Planting Track](https://sthild.org/church-planting-track) at St Hild, the route for students taking church planting as their area of focus, and I teach the Common Awards modules below.
 
 - [Creating New Christian Communities (TMM1397)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1397.pdf) Level 4.
 - [Introduction to Christian Discipleship (TMM1517)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1517.pdf) Level 4.
