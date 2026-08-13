@@ -30,8 +30,7 @@ Common Awards is the partnership through which Durham University validates the p
 - [Creating New Christian Communities (TMM1397)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1397.pdf) Level 4.
 - [Introduction to Christian Discipleship (TMM1517)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1517.pdf) Level 4.
 - [Aspects of Spirituality and Ministry (TMM2577)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-5/TMM2577.pdf) Level 5.
-- [Church Planting in Perspective (TMM3861)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-6/TMM3861.pdf) Level 6.
-- [Advanced Church Planting in Perspective (TMM46120)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-7/TMM46120.pdf) Level 7.
+- [Church Planting in Perspective (TMM3861)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-6/TMM3861.pdf) and [Advanced Church Planting in Perspective (TMM46120)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-7/TMM46120.pdf), delivered together at Levels 6 and 7.
 
 </details>
 
@@ -54,7 +53,7 @@ Recruitment is now open for the next cohort, *Mission Entrepreneurship and Churc
 <details class="accordion" name="courses" markdown="1">
 <summary>Research and supervision interests</summary>
 
-My areas of expertise are church planting, church growth and ministerial formation, and I have emerging interest in the use of artificial intelligence in education and in racial justice and intercultural church. I am always glad to hear from prospective research students.
+My areas of expertise are church planting, church growth and ministerial formation, and I have emerging interest in the use of artificial intelligence in education and ministry, and in racial justice and intercultural church. I am always glad to hear from prospective research students.
 
 - Church planting and church planting movements.
 - Mission theology, missiology and church growth.
