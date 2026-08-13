@@ -38,7 +38,7 @@ Common Awards is the partnership through which Durham University validates the p
 <details class="accordion" name="courses" markdown="1">
 <summary>Doctor of Ministry</summary>
 
-I am the Director of Studies for the Asbury Theological Seminary Doctor of Ministry in the UK and Europe. It is a cohort-based doctorate for experienced leaders who stay in ministry while they study, bringing together academic work and their own field research. It is taught here in English, in a British and European setting, and aims to form practitioner-theologians.
+I am the Director of Studies for the Asbury Theological Seminary Doctor of Ministry in the UK and Europe. It is a cohort-based doctorate for experienced leaders who stay in ministry while they study, bringing together academic work and their own field research. It is taught in a British and European setting, and aims to form practitioner-theologians.
 
 - Mission Entrepreneurship and Church Multiplication (2027–2030). The current cohort, now recruiting — [find out more and apply](https://sthildplanting.org/asbury).
 
