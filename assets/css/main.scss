@@ -134,5 +134,15 @@ details.accordion {
 }
 
 // ---------------------------------------------------------------------------
+// Play down the theme credit line in the footer. It is a courtesy, not
+// something a visitor needs to read.
+// ---------------------------------------------------------------------------
+
+.page__footer-copyright {
+  opacity: 0.55;
+  font-size: 0.7em;
+}
+
+// ---------------------------------------------------------------------------
 // Your own overrides go below. They load after the theme, so they win.
 // ---------------------------------------------------------------------------
