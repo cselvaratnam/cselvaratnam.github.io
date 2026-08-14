@@ -80,7 +80,6 @@ include:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - CLAUDE.md
   - vendor
   - node_modules
 
