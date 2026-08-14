@@ -50,7 +50,7 @@ Below are links to some of my writing and publications. My books are on the [boo
 
 '[Resilience in Ministry](https://new-wine.online/programs/3-christian-selvaratnam-893422)' a keynote at the *New Wine Leadership Conference*, Harrogate, February 2024. (video)
 
-*LED24*, Pinsebevegelsen i Norge, February 2024. Two talks at a leadership conference in Norway: '[How to train leaders](https://www.youtube.com/watch?v=yoa39NzxL3M)' and '[How to recruit leaders](https://www.youtube.com/watch?v=OzRHBvbe21k)'. (video)
+*LED24*, Pinsebevegelsen i Norge, February 2024. Two talks at a leadership conference in Norway: '[How to Train Leaders](https://www.youtube.com/watch?v=yoa39NzxL3M)' and '[How to Recruit Leaders](https://www.youtube.com/watch?v=OzRHBvbe21k)'. (video)
 
 '[Why plant churches?](https://www.psephizo.com/life-ministry/why-plant-churches/)' *Psephizo*, 24 January 2024. (blog)
 
