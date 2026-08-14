@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Christian Selvaratnam"
 permalink: /
 header:
   image: /assets/images/banner1.jpg

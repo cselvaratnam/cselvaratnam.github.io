@@ -1,6 +1,7 @@
 ---
 title: "Books"
 permalink: /books/
+description: "Books and chapters by Christian Selvaratnam on church planting, apprenticeship and the mixed ecology of church, including The Craft of Church Planting."
 header:
   image: /assets/images/banner4.jpg
 ---

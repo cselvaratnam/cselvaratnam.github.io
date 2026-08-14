@@ -1,6 +1,7 @@
 ---
 title: "Courses"
 permalink: /courses/
+description: "Church planting training with Christian Selvaratnam: Seedbed, Camino, Common Awards modules, and a Doctor of Ministry cohort for the UK and Europe."
 header:
   image: /assets/images/banner3.jpg
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Miscellany"
 permalink: /misc/
+description: "Articles, blog posts, interviews, podcasts and broadcasts by Christian Selvaratnam on church planting, mission and the life of the church."
 header:
   image: /assets/images/banner2.jpg
 ---
 
-Not everything finds its way into a book. This page gathers the rest: articles and blog posts, conversations on other people's podcasts, and recordings of talks and broadcasts. My books are on the [books page](/books/).
+Not everything finds its way into a book. This page gathers everything else: articles and blog posts, podcasts, reviews, and recordings of talks and broadcasts. My books are on the [books page](/books/).
 
 <details class="accordion" name="misc" markdown="1" open>
 <summary>2026</summary>

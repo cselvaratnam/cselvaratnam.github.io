@@ -1,0 +1,50 @@
+{% comment %}
+  Structured data — a machine-readable statement of who Christian is.
+
+  Minimal Mistakes emits no schema.org markup of its own. This file overrides
+  the theme's empty `head/custom.html`, which exists precisely so a site can
+  add its own tags to <head> without copying the whole theme include.
+
+  What it buys: search engines can tie this site to the same person behind the
+  social accounts listed in `sameAs`, rather than treating each as a stranger.
+  That is what makes a name search resolve to one person instead of several.
+
+  `sameAs` is a claim of identity, so only put a profile here if you are
+  certain it is his. A wrong URL associates him with someone else.
+{% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Christian Selvaratnam",
+  "honorificPrefix": "The Revd Canon Dr",
+  "url": "{{ site.url }}",
+  "image": "{{ site.url }}/assets/images/banner5.jpg",
+  "description": {{ site.description | jsonify }},
+  "jobTitle": "Dean of Church Planting",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "St Hild College",
+    "url": "https://www.sthild.org"
+  },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "Asbury Theological Seminary", "url": "https://asburyseminary.edu" },
+    { "@type": "CollegeOrUniversity", "name": "Cranmer Hall, Durham University", "url": "https://www.cranmerhall.com" },
+    { "@type": "CollegeOrUniversity", "name": "University of Warwick", "url": "https://warwick.ac.uk" }
+  ],
+  "knowsAbout": [
+    "Church planting",
+    "Mission theology",
+    "Ministerial formation",
+    "Church growth",
+    "Intercultural church",
+    "Apprenticeship and theological education"
+  ],
+  "sameAs": [
+    "https://twitter.com/selvaratnam",
+    "https://www.facebook.com/christian.selvaratnam",
+    "https://instagram.com/selvaratnam",
+    "https://selvaratnam.substack.com"
+  ]
+}
+</script>

@@ -1,6 +1,7 @@
 ---
 title: "About Christian Selvaratnam"
 permalink: /about/
+description: "Dean of Church Planting at St Hild College, Associate Minister of St Stephen Acomb, and author on church planting, mission and ministerial formation."
 header:
   image: /assets/images/banner5.jpg
 ---

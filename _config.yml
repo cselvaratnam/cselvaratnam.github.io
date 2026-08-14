@@ -19,10 +19,15 @@ locale                : "en-GB"
 title                 : "Christian Selvaratnam"
 title_separator       : "|"
 name                  : "Christian Selvaratnam"
-description           : "Personal site for Christian Selvaratnam"
+description           : "Practical theologian, church planter and educator. Books, writing and courses on church planting, mission and ministerial formation."
 url                   : "https://cselvaratnam.github.io"
 baseurl               : ""
 repository            : "cselvaratnam/cselvaratnam.github.io"
+
+# Setting this switches on the whole Twitter/X social card -- without it the
+# theme emits no card at all and shared links render plainly.
+twitter:
+  username            : "selvaratnam"
 
 # Set to true and add a search provider if you ever want site search.
 search                : false
