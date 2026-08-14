@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Books"
     url: /books/
-  - title: "Writing"
-    url: /writing/
+  - title: "Misc"
+    url: /misc/
   - title: "Courses"
     url: /courses/

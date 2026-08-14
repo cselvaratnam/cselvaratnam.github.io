@@ -1,13 +1,13 @@
 ---
-title: "Writing"
-permalink: /writing/
+title: "Misc"
+permalink: /misc/
 header:
   image: /assets/images/banner2.jpg
 ---
 
-Below are links to some of my writing and publications. My books are on the [books page](/books/).
+A miscellany: articles and blog posts, interviews and podcasts, talks and broadcasts. My books are on the [books page](/books/).
 
-<details class="accordion" name="writing" markdown="1" open>
+<details class="accordion" name="misc" markdown="1" open>
 <summary>2026</summary>
 
 '[Learning from the American Civil Rights Story](https://selvaratnam.substack.com/p/learning-from-the-american-civil)' *Substack*, 3 August 2026. Two days in Birmingham and Atlanta in the American south, and what they taught me about the civil rights movement. (blog)
@@ -16,7 +16,7 @@ Below are links to some of my writing and publications. My books are on the [boo
 
 </details>
 
-<details class="accordion" name="writing" markdown="1">
+<details class="accordion" name="misc" markdown="1">
 <summary>2025</summary>
 
 '[How churches can be intercultural](https://www.churchtimes.co.uk/articles/2025/5-december/comment/opinion/how-churches-can-be-intercultural)' *Church Times*, 5 December 2025. Becoming an intercultural parish church is more than welcoming people of different backgrounds. (article)
@@ -35,7 +35,7 @@ Below are links to some of my writing and publications. My books are on the [boo
 
 </details>
 
-<details class="accordion" name="writing" markdown="1">
+<details class="accordion" name="misc" markdown="1">
 <summary>2024</summary>
 
 *Development Day*, Diocese of Sheffield, October 2024. The [keynote address](https://www.youtube.com/watch?v=Cb8jl-L3ZDk), and a workshop on [developing speakers and preachers](https://www.youtube.com/watch?v=8DswylRUwdc). (video)

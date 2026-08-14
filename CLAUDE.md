@@ -98,7 +98,7 @@ file Jekyll does not reload.
 
 ## Accordions
 
-Books, Writing and Courses use collapsible sections instead of headings. The
+Books, Misc and Courses use collapsible sections instead of headings. The
 pattern:
 
 ```html
@@ -128,7 +128,7 @@ replace the `<h2>`s, these pages have no headings, and so no permalink icons.
 | File | Purpose |
 |---|---|
 | `index.md` | Landing page (`permalink: /`) |
-| `_pages/*.md` | About, Books, Writing, Courses — each with its own `permalink` |
+| `_pages/*.md` | About, Books, Misc, Courses — each with its own `permalink` |
 | `_data/navigation.yml` | The masthead nav |
 | `_data/ui-text.yml` | Theme interface strings — see above |
 | `_config.yml` | All configuration, including the single-column defaults |
@@ -136,8 +136,9 @@ replace the `<h2>`s, these pages have no headings, and so no permalink icons.
 | `assets/documents/` | PDFs linked from the site |
 | `assets/css/main.scss` | Custom CSS. **Not** optional — see below |
 
-Five pages: Welcome, About, Books, Writing, Courses. The Courses page was
-called Teaching until 6 August 2026; `/teaching/` is now a dead URL. Do not add pages, posts or
+Five pages: Welcome, About, Books, Misc, Courses. Two have been renamed:
+Teaching became Courses, and Writing became Misc — `/teaching/` and
+`/writing/` are both dead URLs now. Do not add pages, posts or
 a `_posts` collection unless asked.
 
 `main.scss` is load-bearing. It holds the single-column fix, the accordion
@@ -219,7 +220,7 @@ Belfrey'. Full name on first use: The Belfrey (St Michael le Belfrey).
 Christian Selvaratnam. He now uses it in the opening line of the About page
 ('I am The Revd Canon Dr **Christian Selvaratnam**, Dean of…'), where the page
 is doing the job of a formal biography. Keep it to that one place — it does not
-belong on the home page, in the Books or Writing pages, or anywhere else he
+belong on the home page, in the Books or Misc pages, or anywhere else he
 writes in his own voice.
 
 **Do not name the two book series he edits.** 'An editor for two academic book
@@ -231,7 +232,7 @@ site at one point; practical is the settled form.
 Link text should describe its destination ('the books page'), not be a bare
 'here'.
 
-### The Writing page
+### The Misc page
 
 Every entry ends with its type in brackets: `(article)`, `(blog)`, `(podcast)`,
 `(audio)`, `(video)`, `(radio)`. One label per entry — if something exists in
