@@ -11,6 +11,4 @@ I'm **Christian Selvaratnam**, Dean of Church Planting at [St Hild College](http
 
 This is a small site, somewhere to keep my work in one place: the [books and chapters](/books/) I have written, [shorter pieces](/writing/) and the [courses](/courses/) I teach.
 
----
-
 I am always glad to hear from people about church planting, research and supervision, or speaking. Contact me at christian [dot] selvaratnam [at] gmail [dot] com.
