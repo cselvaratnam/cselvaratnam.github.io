@@ -1,11 +1,11 @@
 ---
-title: "Misc"
+title: "Miscellany"
 permalink: /misc/
 header:
   image: /assets/images/banner2.jpg
 ---
 
-A miscellany: articles and blog posts, interviews and podcasts, talks and broadcasts. My books are on the [books page](/books/).
+Not everything finds its way into a book. This page gathers the rest: articles and blog posts, conversations on other people's podcasts, and recordings of talks and broadcasts. My books are on the [books page](/books/).
 
 <details class="accordion" name="misc" markdown="1" open>
 <summary>2026</summary>
