@@ -17,16 +17,16 @@ Most of my teaching is with St Hild College, from short courses for lay people t
 
 I deliver the following courses at St Hild College.
 
-- [Seedbed](https://sthildplanting.org/seedbed) 28-session evening online training for lay people exploring vocations in church planting.
-- [Seedbed: Starting microchurches](https://sthildplanting.org/seedbed) an 18-hour hybrid training and coaching programme equipping lay leaders to start and lead microchurches.
-- [Camino](https://sthildplanting.org/camino) a 16-month teaching and coaching programme for resource church and oversight leaders.
+- [Seedbed](https://sthildplanting.org/seedbed)  online training for lay people exploring vocations in church planting.
+- [Seedbed: Starting microchurches](https://sthildplanting.org/seedbed) a training and coaching programme equipping lay leaders to start and lead microchurches.
+- [Camino](https://sthildplanting.org/camino) a teaching and coaching programme for resource church and oversight leaders.
 
 </details>
 
 <details class="accordion" name="courses" markdown="1">
 <summary>Common Awards</summary>
 
-Common Awards is the partnership through which Durham University validates the programmes taught in theological colleges across England, Wales and Scotland, for the Church of England and its main ecumenical partners. I lead the [Church Planting Track](https://sthild.org/church-planting-track) at St Hild, the route for students taking church planting as their area of focus, and I teach the Common Awards modules below.
+The Church of England and its main ecumenical partners train their ministers through Common Awards, a partnership with Durham University that validates the programmes taught in theological colleges across England, Wales and Scotland. I lead the [Church Planting Track](https://sthild.org/church-planting-track) at St Hild, the route for students taking church planting as their area of focus, and I teach the Common Awards modules below.
 
 - [Creating New Christian Communities (TMM1397)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1397.pdf) Level 4.
 - [Introduction to Christian Discipleship (TMM1517)](https://www.durham.ac.uk/media/durham-university/departments-/common-awards/documents/module-outlines/level-4/TMM1517.pdf) Level 4.
