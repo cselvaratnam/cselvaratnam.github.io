@@ -1,9 +1,10 @@
 {% comment %}
   Structured data — a machine-readable statement of who Christian is.
 
-  Minimal Mistakes emits no schema.org markup of its own. This file overrides
-  the theme's empty `head/custom.html`, which exists precisely so a site can
-  add its own tags to <head> without copying the whole theme include.
+  This file OVERRIDES the theme's own `_includes/schema.html`, which emits a
+  bare Person with nothing but a name. Overriding rather than adding is
+  deliberate: two Person blocks describing the same man is worse than one, and
+  leaves search engines to guess which is authoritative. Keep it as one block.
 
   What it buys: search engines can tie this site to the same person behind the
   social accounts listed in `sameAs`, rather than treating each as a stranger.
