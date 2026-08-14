@@ -29,6 +29,11 @@ repository            : "cselvaratnam/cselvaratnam.github.io"
 twitter:
   username            : "selvaratnam"
 
+# Proves to Google Search Console that this site is Christian's, so he can see
+# what people search for to reach it and submit the sitemap. The theme renders
+# this as the verification meta tag. Removing it un-verifies the site.
+google_site_verification : "Lh7gZGa0_QP0VpOAjRDYhCVdH5YP7OehbULdw3PmxFg"
+
 # Set to true and add a search provider if you ever want site search.
 search                : false
 
