@@ -10,25 +10,35 @@ I am something of a late developer as an author. I found my confidence during my
 
 <details class="accordion" name="books" markdown="1" open>
 <summary>Books</summary>
-*[Why Plant Churches? Theological and Practical Reasons](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/)* (Grove Books, 2023).
+*Why Plant Churches? Theological and Practical Reasons* (Grove Books, 2023).
 <span class="note">Church planting is often reduced to a task of mission. This short book sets out the wider theological and practical reasons for planting, and the benefits it brings to the wider church.</span>
 
-*[The Craft of Church Planting: Exploring the Lost Wisdom of Apprenticeship](https://scmpress.hymnsam.co.uk/books/9780334061816/the-craft-of-church-planting)* (SCM Press, 2022).
+[Grove Books](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/){: .btn .btn--primary}
+
+*The Craft of Church Planting: Exploring the Lost Wisdom of Apprenticeship* (SCM Press, 2022).
 <span class="note">Drawing on my doctoral research into the pedagogy of the English medieval craft guilds, this book offers a fresh account of apprenticeship as a model for training. It argues that church planting, which requires theory and practical skill, is best understood and taught as a craft.</span>
 
-*[Alpha as a Church Planting Tool](/assets/documents/alpha-as-church-planting-tool.pdf)* (Alpha International, 2017).
+[SCM Press](https://scmpress.hymnsam.co.uk/books/9780334061816/the-craft-of-church-planting){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/0334061814){: .btn .btn--inverse} [Amazon US](https://www.amazon.com/dp/0334061814){: .btn .btn--inverse}
+
+*Alpha as a Church Planting Tool* (Alpha International, 2017).
 <span class="note">A short study of why the Alpha course and church planting fit together so naturally. It goes some way to explaining why Alpha has proved such a catalyst for planting.</span>
+
+[Read the PDF](/assets/documents/alpha-as-church-planting-tool.pdf){: .btn .btn--primary}
 
 </details>
 
 <details class="accordion" name="books" markdown="1">
 <summary>Chapters</summary>
 
-'Is Church Planting a Craft? Training Lessons from Medieval Guilds', in Joshua Cockayne and Will Foulger (eds), *[New Churches: A Theology](https://scmpress.hymnsam.co.uk/books/9780334066156/new-churches)* (SCM Press, 2024).
+'Is Church Planting a Craft? Training Lessons from Medieval Guilds', in Joshua Cockayne and Will Foulger (eds), *New Churches: A Theology* (SCM Press, 2024).
 <span class="note">Drawing on the medieval craft guilds, where an apprentice advanced by producing real work rather than by finishing a course, this chapter asks what that older way of forming people might offer the training of church planters now.</span>
 
-'Reclaiming the Missing Generation', in Winfield Bevins (ed.), *[Global Voices: Stories of Church Planting from Around the World](https://asburychurchplanting.com/wp-content/uploads/Global_Voices.pdf)* (Asbury Theological Seminary, 2019).
+[SCM Press](https://scmpress.hymnsam.co.uk/books/9780334066156/new-churches){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/0334066158){: .btn .btn--inverse} [Amazon US](https://www.amazon.com/dp/0334066158){: .btn .btn--inverse}
+
+'Reclaiming the Missing Generation', in Winfield Bevins (ed.), *Global Voices: Stories of Church Planting from Around the World* (Asbury Theological Seminary, 2019).
 <span class="note">A case study of G2, the church plant I led in York, which reached the millennial generation largely by apprenticing new leaders.</span>
+
+[Read the PDF](https://asburychurchplanting.com/wp-content/uploads/Global_Voices.pdf){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/1095556835){: .btn .btn--inverse} [Amazon US](https://www.amazon.com/dp/1095556835){: .btn .btn--inverse}
 
 </details>
 
