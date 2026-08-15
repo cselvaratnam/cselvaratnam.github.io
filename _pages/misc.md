@@ -6,7 +6,7 @@ header:
   image: /assets/images/banner2.jpg
 ---
 
-Not everything finds its way into a book. This page gathers everything else: articles and blog posts, podcasts, reviews, and recordings of talks and broadcasts. My books are on the [books page](/books/).
+Not everything finds its way into a book. This page gathers everything else: articles and blog posts, podcasts, reviews, recordings of talks, and broadcasts. My books are on the [books page](/books/).
 
 <details class="accordion" name="misc" markdown="1" open>
 <summary>2026</summary>

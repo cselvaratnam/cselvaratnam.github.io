@@ -155,5 +155,47 @@ details.accordion {
 }
 
 // ---------------------------------------------------------------------------
+// Book cover images.
+//
+// Save covers 360px wide (2x the 180px they display at, so they stay sharp on
+// retina screens) and keep each file under about 60KB.
+//
+// Mobile first: a centred block above the text. From tablet width up, it moves
+// to the right and the text wraps around it.
+//
+// `clear: right` matters — without it, a cover whose description is shorter
+// than the image would collide with the next book down the page.
+// ---------------------------------------------------------------------------
+
+.cover {
+  display: block;
+  width: 180px;
+  max-width: 50%;
+  margin: 0 auto 1em;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+@media (min-width: 768px) {
+  .cover {
+    float: right;
+    clear: right;
+    max-width: none;
+    margin: 0.25em 0 1em 1.5em;
+  }
+}
+
+// Contain the floats so a cover cannot escape its accordion section.
+details.accordion > summary ~ * {
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+details.accordion[open] {
+  display: flow-root;
+}
+
+// ---------------------------------------------------------------------------
 // Your own overrides go below. They load after the theme, so they win.
 // ---------------------------------------------------------------------------
