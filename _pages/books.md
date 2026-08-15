@@ -10,11 +10,13 @@ I am something of a late developer as an author. I found my confidence during my
 
 <details class="accordion" name="books" markdown="1" open>
 <summary>Books</summary>
+![Cover of Why Plant Churches?](/assets/images/why-plant.jpg){: .cover}
 *Why Plant Churches? Theological and Practical Reasons* (Grove Books, 2023).
 <span class="note">Church planting is often reduced to a task of mission. This short book sets out the wider theological and practical reasons for planting, and the benefits it brings to the wider church.</span>
 
 [Grove Books](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/1788273176){: .btn .btn--primary}
 
+![Cover of The Craft of Church Planting](/assets/images/craft-planting.jpg){: .cover}
 *The Craft of Church Planting: Exploring the Lost Wisdom of Apprenticeship* (SCM Press, 2022).
 <span class="note">Drawing on my doctoral research into the pedagogy of the English medieval craft guilds, this book offers a fresh account of apprenticeship as a model for training. It argues that church planting, which requires theory and practical skill, is best understood and taught as a craft.</span>
 
@@ -35,6 +37,7 @@ I am something of a late developer as an author. I found my confidence during my
 
 [SCM Press](https://scmpress.hymnsam.co.uk/books/9780334066156/new-churches){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/0334066158){: .btn .btn--primary} [Amazon US](https://www.amazon.com/dp/0334066158){: .btn .btn--primary}
 
+![Cover of Global Voices](/assets/images/global-voices.jpg){: .cover}
 'Reclaiming the Missing Generation', in Winfield Bevins (ed.), *Global Voices: Stories of Church Planting from Around the World* (Asbury Theological Seminary, 2019).
 <span class="note">A case study of G2, the church plant I led in York, which reached the millennial generation largely by apprenticing new leaders.</span>
 
