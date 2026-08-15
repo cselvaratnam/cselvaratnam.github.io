@@ -22,6 +22,7 @@ I am something of a late developer as an author. I found my confidence during my
 
 [SCM Press](https://scmpress.hymnsam.co.uk/books/9780334061816/the-craft-of-church-planting){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/0334061814){: .btn .btn--primary} [Amazon US](https://www.amazon.com/dp/0334061814){: .btn .btn--primary}
 
+![Cover of Alpha as a Church Planting Tool](/assets/images/alpha-planting.jpg){: .cover}
 *Alpha as a Church Planting Tool* (Alpha International, 2017).
 <span class="note">A short study of why the Alpha course and church planting fit together so naturally. It goes some way to explaining why Alpha has proved such a catalyst for planting.</span>
 
@@ -32,6 +33,7 @@ I am something of a late developer as an author. I found my confidence during my
 <details class="accordion" name="books" markdown="1">
 <summary>Chapters</summary>
 
+![Cover of New Churches: A Theology](/assets/images/new-church.jpg){: .cover}
 'Is Church Planting a Craft? Training Lessons from Medieval Guilds', in Joshua Cockayne and Will Foulger (eds), *New Churches: A Theology* (SCM Press, 2024).
 <span class="note">Drawing on the medieval craft guilds, where an apprentice advanced by producing real work rather than by finishing a course, this chapter asks what that older way of forming people might offer the training of church planters now.</span>
 
