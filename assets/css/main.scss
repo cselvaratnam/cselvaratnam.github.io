@@ -87,24 +87,33 @@ details.accordion > summary {
 // so `logo-header.svg` and `logo-footer.svg` have their colours baked in.
 // ---------------------------------------------------------------------------
 
+// 2.85em is the 1.5em it started at, plus 90%. The negative vertical-align is
+// roughly half the difference between the mark and the text line, which is
+// what keeps the name optically centred against it.
 .greedy-nav a.site-title::before {
   content: "";
   display: inline-block;
-  width: 1.5em;
-  height: 1.5em;
-  margin-inline-end: 0.45em;
-  vertical-align: -0.4em;
+  width: 2.85em;
+  height: 2.85em;
+  margin-inline-end: 0.4em;
+  vertical-align: -0.95em;
   background: url("/assets/images/logo-header.svg") no-repeat center / contain;
 }
 
-// Bottom right of the footer. `margin-inline-start: auto` is what pushes it
-// across; the mark is a block so the margin has room to work.
-.page__footer footer::after {
-  content: "";
-  display: block;
+// Footer mark, level with the copyright text rather than below it. The two
+// sit in a flex row, so the mark stays on the same line and hugs the right.
+// It is a real link (see the footer.html override), so it can be clicked.
+.page__footer-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+}
+
+.page__footer-logo {
+  flex: 0 0 auto;
   width: 2.5em;
   height: 2.5em;
-  margin: 0.5em 0 0 auto;
   background: url("/assets/images/logo-footer.svg") no-repeat center / contain;
 }
 
