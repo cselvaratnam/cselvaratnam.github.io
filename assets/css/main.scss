@@ -48,9 +48,11 @@ $code-background-color: #f7f7f7;
 
 // His name in the masthead. It sits top-LEFT in this theme, not top-right.
 //
-// Needs the `.masthead` prefix: the theme colours this with a two-part
-// selector, so a bare `.site-title` loses and the name stays black.
-.masthead .site-title {
+// The selector has to be this specific. His name is a link inside
+// `.greedy-nav`, and the theme sets `.greedy-nav a { color: … }` to the
+// masthead colour — black. A plain `.site-title` is less specific than that
+// and loses, leaving the name black however many times you change it.
+.greedy-nav a.site-title {
   color: #c53678;
 }
 

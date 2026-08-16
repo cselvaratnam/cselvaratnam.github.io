@@ -13,7 +13,7 @@ I am something of a late developer as an author. I found my confidence during my
 <div class="book" markdown="1">
 ![Cover of Why Plant Churches?](/assets/images/why-plant.jpg){: .cover}
 **Why Plant Churches? Theological and Practical Reasons** (Grove Books, 2023).
-<span class="note">Church planting is often reduced to a task of mission. This short book sets out the wider theological and practical reasons for planting, and the benefits it brings to the wider church.</span>
+<span class="note">Church planting is often reduced to a task of mission. This short book sets out the wider theological and practical reasons for planting, and the benefits it brings to the wider Church.</span>
 
 [Grove Books](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/1788273176){: .btn .btn--primary}
 </div>
