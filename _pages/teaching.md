@@ -1,6 +1,6 @@
 ---
-title: "Courses"
-permalink: /courses/
+title: "Teaching"
+permalink: /teaching/
 description: "Church planting training with Christian Selvaratnam: Seedbed, Camino, Common Awards modules, and a Doctor of Ministry cohort for the UK and Europe."
 header:
   image: /assets/images/banner3.jpg
@@ -8,12 +8,12 @@ header:
 
 Most of my teaching is with St Hild College, from short courses for lay people through to doctoral programmes.
 
-<!-- Accordion sections. The shared `name="courses"` is what makes them
+<!-- Accordion sections. The shared `name="teaching"` is what makes them
      exclusive: opening one closes the others, with no JavaScript involved.
      `markdown="1"` tells Jekyll to keep processing Markdown inside the tag --
      without it the lists below would appear as raw text. -->
 
-<details class="accordion" name="courses" markdown="1" open>
+<details class="accordion" name="teaching" markdown="1" open>
 <summary>Training pathways</summary>
 
 I deliver the following courses at St Hild College.
@@ -24,7 +24,7 @@ I deliver the following courses at St Hild College.
 
 </details>
 
-<details class="accordion" name="courses" markdown="1">
+<details class="accordion" name="teaching" markdown="1">
 <summary>Common Awards</summary>
 
 The Church of England and its main ecumenical partners train their ministers through Common Awards, a partnership with Durham University that validates the programmes taught in theological colleges across England, Wales and Scotland. I lead the [Church Planting Track](https://sthild.org/church-planting-track) at St Hild, the route for students taking church planting as their area of focus, and I teach the Common Awards modules below.
@@ -36,7 +36,7 @@ The Church of England and its main ecumenical partners train their ministers thr
 
 </details>
 
-<details class="accordion" name="courses" markdown="1">
+<details class="accordion" name="teaching" markdown="1">
 <summary>Doctor of Ministry</summary>
 
 I am the Director of Studies for the Asbury Theological Seminary Doctor of Ministry in the UK and Europe. It is a cohort-based doctorate for experienced leaders who stay in ministry while they study, bringing together academic work and their own field research. It is taught in a British and European setting, and aims to form practitioner-theologians.
@@ -45,14 +45,14 @@ Recruitment is now open for the next cohort, *Mission Entrepreneurship and Churc
 
 </details>
 
-<details class="accordion" name="courses" markdown="1">
-<summary>Courses elsewhere</summary>
+<details class="accordion" name="teaching" markdown="1">
+<summary>Elsewhere</summary>
 
 - [Explore Church Planting](https://ccx.org.uk/explore-church-planting/) a five-part film series for churches exploring church planting.
 
 </details>
 
-<details class="accordion" name="courses" markdown="1">
+<details class="accordion" name="teaching" markdown="1">
 <summary>Research and supervision interests</summary>
 
 My areas of particular expertise are church planting, church growth and ministerial formation, and I have emerging interest in the use of artificial intelligence in education and ministry, and in racial justice and intercultural church. I am always glad to hear from prospective research students.

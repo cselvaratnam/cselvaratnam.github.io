@@ -8,5 +8,5 @@ main:
     url: /books/
   - title: "Misc"
     url: /misc/
-  - title: "Courses"
-    url: /courses/
+  - title: "Teaching"
+    url: /teaching/
