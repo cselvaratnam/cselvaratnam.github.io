@@ -21,7 +21,7 @@ I am something of a late developer as an author. I found my confidence during my
 <div class="book" markdown="1">
 ![Cover of The Craft of Church Planting](/assets/images/craft-planting.jpg){: .cover}
 **The Craft of Church Planting: Exploring the Lost Wisdom of Apprenticeship** (SCM Press, 2022).
-<span class="note">Drawing on my doctoral research into the pedagogy of the English medieval craft guilds, this book offers a fresh account of apprenticeship as a model for training. It argues that church planting, which requires theory and practical skill, is best understood and taught as a craft.</span>
+<span class="note">Drawing on my doctoral research into the pedagogy of the English medieval craft guilds, this book offers a fresh account of apprenticeship as a model for training in the Church. It argues that church planting, which requires theory and practical skill, is best understood and taught as a craft.</span>
 
 [SCM Press](https://scmpress.hymnsam.co.uk/books/9780334061816/the-craft-of-church-planting){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/0334061814){: .btn .btn--primary} [Amazon US](https://www.amazon.com/dp/0334061814){: .btn .btn--primary}
 </div>

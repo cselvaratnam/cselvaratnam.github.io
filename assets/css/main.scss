@@ -5,8 +5,68 @@ search: false
 
 @charset "utf-8";
 
+// ---------------------------------------------------------------------------
+// PALETTE — white, red-violet, sunset orange
+//
+// These must sit ABOVE the two imports. The theme declares its colours with
+// `!default`, meaning "use this unless already set", so anything defined here
+// wins. Move this block below the imports and it stops working entirely.
+//
+// Only literal colours here — theme variables like `$dark-gray` do not exist
+// yet at this point in the file.
+//
+// Why violet carries the text and orange only decorates: measured against
+// white, violet reaches 5.03:1 and passes the accessibility standard for body
+// text (4.5:1). Orange manages 3.12:1 and fails it — fine for large or
+// decorative use, not for anything someone has to read.
+// ---------------------------------------------------------------------------
+
+$background-color: #ffffff;
+$text-color: #000000;
+$muted-text-color: #6a6a6a;
+
+$primary-color: #c53678; // red-violet — buttons, headings, his name
+$link-color: #c53678;
+$link-color-hover: #ff5841; // sunset orange
+$link-color-visited: #9c2a5e;
+
+$masthead-link-color: #000000;
+$masthead-link-color-hover: #c53678;
+$navicon-link-color-hover: #c53678;
+
+$border-color: #e8e8e8;
+$footer-background-color: #ffffff;
+$form-background-color: #f7f7f7;
+$code-background-color: #f7f7f7;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// ---------------------------------------------------------------------------
+// Where the two brand colours actually land.
+// ---------------------------------------------------------------------------
+
+// His name in the masthead. It sits top-LEFT in this theme, not top-right.
+.site-title {
+  color: #c53678;
+}
+
+// Headings, including the accordion summaries that stand in for headings.
+h1, h2, h3, h4, h5, h6,
+.page__title,
+details.accordion > summary {
+  color: #c53678;
+}
+
+// Orange earns its place on the accents: the accordion's open/close marker,
+// and the underline beneath the masthead.
+details.accordion > summary::after {
+  color: #ff5841;
+}
+
+.masthead {
+  border-bottom: 2px solid #ff5841;
+}
 
 // ---------------------------------------------------------------------------
 // TRUE SINGLE COLUMN
