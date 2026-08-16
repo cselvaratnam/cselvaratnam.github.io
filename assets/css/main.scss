@@ -53,8 +53,14 @@ $code-background-color: #f7f7f7;
 }
 
 // Headings, including the accordion summaries that stand in for headings.
+//
+// `.page__title a` is not redundant. The theme wraps the page title text in a
+// link pointing at the page itself, and colours that link with the body text
+// colour. Styling only the `<h1>` leaves the words black, because the link
+// inside it wins.
 h1, h2, h3, h4, h5, h6,
 .page__title,
+.page__title a,
 details.accordion > summary {
   color: #4f0341;
 }
