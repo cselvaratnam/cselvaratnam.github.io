@@ -6,7 +6,7 @@ search: false
 @charset "utf-8";
 
 // ---------------------------------------------------------------------------
-// PALETTE — black text, Tyrian purple headings, grey for everything secondary
+// PALETTE — black text, Claude orange headings, grey for everything secondary
 //
 // These must sit ABOVE the two imports. The theme declares its colours with
 // `!default`, meaning "use this unless already set", so anything defined here
@@ -15,22 +15,25 @@ search: false
 // Only literal colours here — theme variables like `$dark-gray` do not exist
 // yet at this point in the file.
 //
-// Contrast against white, all comfortably above the 4.5:1 needed for text:
-//   Tyrian purple #4f0341 -- 14.8:1
-//   grey          #6a6a6a --  5.4:1
+// Two shades of one orange, and the reason for two:
+//   #d97757  Claude orange -- 3.1:1 on white. Fine for large display type,
+//            FAILS the 4.5:1 needed for body text. Headings and the logo only.
+//   #a34e2e  the same orange darkened -- 5.7:1. Used anywhere the colour
+//            carries text a reader has to read: links and button labels.
+//   #6a6a6a  grey -- 5.4:1. Secondary text, header and footer links.
 // ---------------------------------------------------------------------------
 
 $background-color: #ffffff;
 $text-color: #000000;
 $muted-text-color: #6a6a6a; // book blurbs and other secondary text
 
-$primary-color: #4f0341;    // Tyrian purple — headings and buttons
-$link-color: #4f0341;
-$link-color-hover: #7a0a66;
-$link-color-visited: #4f0341;
+$primary-color: #a34e2e;    // darkened orange — buttons need readable labels
+$link-color: #a34e2e;
+$link-color-hover: #d97757;
+$link-color-visited: #a34e2e;
 
 $masthead-link-color: #6a6a6a;
-$masthead-link-color-hover: #4f0341;
+$masthead-link-color-hover: #a34e2e;
 $navicon-link-color-hover: #6a6a6a;
 
 $border-color: #e5e5e5;
@@ -49,7 +52,7 @@ $code-background-color: #f7f7f7;
 // inside `.greedy-nav`, and the theme sets `.greedy-nav a { color: ... }` to
 // the masthead grey. A plain `.site-title` is less specific and loses.
 .greedy-nav a.site-title {
-  color: #4f0341;
+  color: #d97757;
 }
 
 // Headings, including the accordion summaries that stand in for headings.
@@ -62,7 +65,7 @@ h1, h2, h3, h4, h5, h6,
 .page__title,
 .page__title a,
 details.accordion > summary {
-  color: #4f0341;
+  color: #d97757;
 }
 
 // Footer links grey, matching the header.
@@ -71,7 +74,36 @@ details.accordion > summary {
   color: #6a6a6a;
 
   &:hover {
-    color: #4f0341;
+    color: #a34e2e;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Buttons: outlined rather than filled — orange edge, orange label, white
+// inside. Filling on hover gives the press some feedback.
+//
+// The darker #a34e2e is deliberate. Claude orange itself is 3.1:1 on white,
+// and a button label is normal-size text needing 4.5:1, so the true brand
+// orange would leave the words hard to read. This shade reaches 5.7:1 and
+// still reads as the same colour. White on it when filled is 5.7:1 too.
+// ---------------------------------------------------------------------------
+
+.btn.btn--primary {
+  background-color: transparent;
+  color: #a34e2e;
+  border: 2px solid #a34e2e;
+
+  &:visited {
+    background-color: transparent;
+    color: #a34e2e;
+    border-color: #a34e2e;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: #a34e2e;
+    color: #ffffff;
+    border-color: #a34e2e;
   }
 }
 
