@@ -185,13 +185,23 @@ details.accordion {
   }
 }
 
-// Contain the floats so a cover cannot escape its accordion section.
-details.accordion > summary ~ * {
+// Each book sits in its own block. This is what stops a tall cover from
+// letting the NEXT book's text ride up alongside it: `flow-root` makes the
+// block full-height around its floated cover, so the following entry starts
+// below it.
+//
+// `clear: right` on `.cover` alone was not enough — that only stops covers
+// colliding with each other, not with the text that follows.
+.book {
+  display: flow-root;
+  margin-bottom: 2em;
+
   &:last-child {
     margin-bottom: 0;
   }
 }
 
+// Belt and braces: a cover cannot escape its accordion section either.
 details.accordion[open] {
   display: flow-root;
 }
