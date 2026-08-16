@@ -1,9 +1,11 @@
 {% comment %}
   Overrides the theme's own footer.html.
 
-  Only one thing is added: the crown-and-table mark as a link to the home page,
-  sitting on the same line as the copyright text. It has to be real markup
-  rather than CSS, because a background image cannot be clicked.
+  Two things are added: a flex wrapper, and the crown-and-table mark as a link
+  to the home page. The wrapper puts the mark in its own column to the right,
+  top-aligned with the social links rather than dropped down beside the
+  copyright line. The mark has to be real markup rather than CSS, because a
+  background image cannot be clicked.
 
   Everything else is the theme's markup unchanged. If Minimal Mistakes is ever
   upgraded past 4.28.0, compare this against the new version.
@@ -12,6 +14,8 @@
 {% unless site.atom_feed.hide %}
   {% assign show_atom = true %}
 {% endunless %}
+<div class="page__footer-inner">
+<div class="page__footer-text">
 {% if site.footer.links or show_atom %}
 <div class="page__footer-follow">
   <ul class="social-icons">
@@ -34,7 +38,7 @@
 </div>
 {% endif %}
 
-<div class="page__footer-bottom">
   <div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. {{ site.data.ui-text[locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
-  <a class="page__footer-logo" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape_once }} — home"></a>
+</div>
+<a class="page__footer-logo" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape_once }} — home"></a>
 </div>

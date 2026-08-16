@@ -100,14 +100,23 @@ details.accordion > summary {
   background: url("/assets/images/logo-header.svg") no-repeat center / contain;
 }
 
-// Footer mark, level with the copyright text rather than below it. The two
-// sit in a flex row, so the mark stays on the same line and hugs the right.
-// It is a real link (see the footer.html override), so it can be clicked.
-.page__footer-bottom {
+// Footer mark in its own column on the right, its top lined up with the top
+// of the social links — not dropped down beside the copyright line.
+//
+// `align-items: flex-start` is what does it: the mark aligns to the top of the
+// text column, and that column begins with the links. The social list carries
+// its own top padding from the theme, which would push the mark down by the
+// same amount, so that is cancelled on the mark.
+.page__footer-inner {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
-  gap: 1em;
+  gap: 1.5em;
+}
+
+.page__footer-text {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .page__footer-logo {
