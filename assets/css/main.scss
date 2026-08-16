@@ -76,6 +76,39 @@ details.accordion > summary {
 }
 
 // ---------------------------------------------------------------------------
+// The crown-and-table mark.
+//
+// Placed with CSS rather than by overriding the theme's masthead and footer
+// templates — less of the theme to keep in step, and the mark is decorative so
+// it belongs in the styling rather than the content.
+//
+// The source drawing uses `stroke="currentColor"`, but that only inherits the
+// page colour when the SVG is inlined. Loaded as a background image it cannot,
+// so `logo-header.svg` and `logo-footer.svg` have their colours baked in.
+// ---------------------------------------------------------------------------
+
+.greedy-nav a.site-title::before {
+  content: "";
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  margin-inline-end: 0.45em;
+  vertical-align: -0.4em;
+  background: url("/assets/images/logo-header.svg") no-repeat center / contain;
+}
+
+// Bottom right of the footer. `margin-inline-start: auto` is what pushes it
+// across; the mark is a block so the margin has room to work.
+.page__footer footer::after {
+  content: "";
+  display: block;
+  width: 2.5em;
+  height: 2.5em;
+  margin: 0.5em 0 0 auto;
+  background: url("/assets/images/logo-footer.svg") no-repeat center / contain;
+}
+
+// ---------------------------------------------------------------------------
 // TRUE SINGLE COLUMN
 //
 // Minimal Mistakes assumes an author sidebar on the left: above the $large

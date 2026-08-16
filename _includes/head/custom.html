@@ -1,0 +1,14 @@
+{% comment %}
+  Browser and device icons.
+
+  The theme has no favicon support of its own, but `_layouts/default.html`
+  includes this file inside <head>, which is the intended hook for additions
+  like these.
+
+  The three files sit at the SITE ROOT, not in assets/images. iOS looks for
+  /apple-touch-icon.png by that exact name and location; moving or renaming it
+  breaks the home-screen icon silently.
+{% endcomment %}
+<link rel="icon" href="{{ '/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="icon" href="{{ '/favicon-32x32.png' | relative_url }}" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
