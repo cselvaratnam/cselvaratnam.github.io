@@ -47,7 +47,10 @@ $code-background-color: #f7f7f7;
 // ---------------------------------------------------------------------------
 
 // His name in the masthead. It sits top-LEFT in this theme, not top-right.
-.site-title {
+//
+// Needs the `.masthead` prefix: the theme colours this with a two-part
+// selector, so a bare `.site-title` loses and the name stays black.
+.masthead .site-title {
   color: #c53678;
 }
 
