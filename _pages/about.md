@@ -6,13 +6,13 @@ header:
   image: /assets/images/banner5.jpg
 ---
 
-I am The Revd Canon Dr **Christian Selvaratnam**, Dean of Church Planting at [St Hild College](https://www.sthild.org), Associate Minister of [St Stephen](https://www.acombparish.org), Acomb in York, and Director of Studies for the [Asbury Theological Seminary](https://asburyseminary.edu) Doctor of Ministry cohort in the UK and Europe.
+I am The Revd Canon Dr **Christian Selvaratnam**, Dean of Church Planting at [St Hild College](https://www.sthild.org), a priest in the [Church of England](https://www.churchofengland.org) and Associate Minister of [St Stephen](https://www.acombparish.org), Acomb in York, and Director of Studies for the [Asbury Theological Seminary](https://asburyseminary.edu) Doctor of Ministry cohort in the UK and Europe.
 
 As a practical theologian, my work sits at the intersection of scholarship, research and training, and most of it is done alongside practitioners. For thirty years my focus has been mission and discipleship, leadership development, church growth, church renewal and church planting — areas where the Church retains and rediscovers its authentic identity, and where it proclaims the gospel afresh to this generation.
 
 At St Hild I founded the [St Hild Centre for Church Planting](https://www.sthildplanting.org), and I oversee the St Hild [Church Planting Track](https://www.sthild.org/church-planting-track) of Common Awards modules, [Seedbed](https://www.sthildplanting.org/seedbed) (a lay training pathway), [Camino](https://www.sthildplanting.org/camino) (a programme for resource church leaders) and a Doctor of Ministry programme with Asbury Seminary. I teach Anglican ordinands and Baptist ministers-in-training, experienced clergy and postgraduate students, and I supervise postgraduate research.
 
-A growing part of my work concerns intercultural mission and racial justice. I am a member of the Diocese of York's Intercultural Ministry Task Group, and more widely I am involved in a number of racial justice projects and in supporting intercultural churches. I also have an emerging interest in the use of artificial intelligence in education and ministry.
+A growing part of my work concerns intercultural mission and racial justice. I am a member of the [Diocese of York](https://dioceseofyork.org.uk)'s Intercultural Ministry Task Group, and more widely I am involved in a number of racial justice projects and in supporting intercultural churches. I also have an emerging interest in the use of artificial intelligence in education and ministry.
 
 I write from time to time for various publications, and am an occasional guest on podcasts and radio programmes. I am also an editor for two book series.
 
