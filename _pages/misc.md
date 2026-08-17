@@ -60,6 +60,6 @@ Not everything finds its way into a book. This page gathers everything else: art
 <details class="accordion" name="misc" markdown="1">
 <summary>Code</summary>
 
-'[Church of England Liturgical Calendar](https://xbarapp.com/docs/plugins/Lifestyle/church-liturgical-calendar.1h.sh.html)' *xbar*. A plugin I wrote for the Mac menu bar. It shows the season or festival of the day and the Collect of the Day, drawn live from the Church of England website. Vibe-coded, in the open, and it does the job. (code)
+'[Church of England Liturgical Calendar](https://xbarapp.com/docs/plugins/Lifestyle/church-liturgical-calendar.1h.sh.html)' *xbar*. A plugin I vibe-coded for the Mac menu bar. It shows the season or festival of the day and the Collect of the Day, drawn live from the Church of England website. (code)
 
 </details>

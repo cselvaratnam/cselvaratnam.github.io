@@ -39,7 +39,11 @@ en-GB:
   # <strong> entirely. Setting it to "" would NOT work -- an empty string is
   # truthy in Liquid, so you would get an empty bold tag instead.
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+  # Prepends the Claude Code credit to the theme's own line, which then
+  # supplies "Jekyll & Minimal Mistakes" itself. The theme prints this
+  # string unescaped, so the link works. Doing it here means footer.html
+  # does not need overriding at all.
+  powered_by                 : "Managed by <a href=\"https://claude.com/product/claude-code\" rel=\"nofollow\">Claude Code</a> and powered by"
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent posts"
