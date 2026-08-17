@@ -12,7 +12,7 @@ As a practical theologian, my work sits at the intersection of scholarship, rese
 
 At St Hild I founded the [St Hild Centre for Church Planting](https://www.sthildplanting.org), and I oversee the St Hild [Church Planting Track](https://www.sthild.org/church-planting-track) of Common Awards modules, [Seedbed](https://www.sthildplanting.org/seedbed) (a lay training pathway), [Camino](https://www.sthildplanting.org/camino) (a programme for resource church leaders) and a Doctor of Ministry programme with Asbury Seminary. I teach Anglican ordinands and Baptist ministers-in-training, experienced clergy and postgraduate students, and I supervise postgraduate research.
 
-A growing part of my work concerns intercultural mission and racial justice. I am a member of the [Diocese of York](https://dioceseofyork.org.uk)'s Intercultural Ministry Task Group, and more widely I am involved in a number of racial justice projects and in supporting intercultural churches. I also have an emerging interest in the use of artificial intelligence in education and ministry.
+A growing part of my work concerns intercultural mission and racial justice. I am a member of the [Diocese of York](https://dioceseofyork.org.uk)'s Intercultural Ministry Task Group, and more widely I am involved in a number of racial justice projects and in supporting intercultural churches. I also have an emerging interest in the use of artificial intelligence in education, research and ministry.
 
 I write from time to time for various publications, and am an occasional guest on podcasts and radio programmes. I am also an editor for two book series.
 
@@ -22,7 +22,7 @@ I read Mathematics and Theoretical Computation at the University of Warwick. My 
 
 I trained for ordained ministry in the Church of England at [Cranmer Hall](https://www.cranmerhall.com), joining the first cohort of Ordained Pioneer Ministers in 2008. I later completed my doctoral studies at Asbury Theological Seminary, exploring how the pedagogy of medieval English craft guilds might be applied to contemporary training for clergy. That research still shapes the programmes I design.
 
-Over the past twenty-five years I have led two church plants myself, and have sent, supported or supervised several others. I now serve on a number of boards related to mission, church renewal, church planting and education in the UK, Europe and North America.
+Over the past twenty-five years I have led two church plants myself, and have sent, supported or supervised several others. In addition to my teaching work, I serve on a number of boards related to mission, church renewal, church planting and education in the UK, Europe and North America.
 
 I am a Distinguished Canon of [Manchester Cathedral](https://manchestercathedral.org), a Visiting Fellow of [St John's College](https://www.durham.ac.uk/colleges-and-student-experience/colleges/st-johns/) at Durham University, an Adjunct Professor at [Asbury Theological Seminary](https://asburyseminary.edu), an Evangelist in the [College of Archbishops' Evangelists](https://archbishopsevangelists.org), and a member of the [General Synod](https://www.churchofengland.org/about/governance/general-synod) of the Church of England.
 

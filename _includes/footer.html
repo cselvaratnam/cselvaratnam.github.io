@@ -7,6 +7,9 @@
   copyright line. The mark has to be real markup rather than CSS, because a
   background image cannot be clicked.
 
+  The credit line is also reworded to name Claude Code. That drops the theme's
+  `powered_by` string from _data/ui-text.yml, which is no longer used here.
+
   Everything else is the theme's markup unchanged. If Minimal Mistakes is ever
   upgraded past 4.28.0, compare this against the new version.
 {% endcomment %}
@@ -38,7 +41,7 @@
 </div>
 {% endif %}
 
-  <div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. {{ site.data.ui-text[locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+  <div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. Managed by <a href="https://claude.com/product/claude-code" rel="nofollow">Claude Code</a> and powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
 </div>
 <a class="page__footer-logo" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape_once }} — home"></a>
 </div>
