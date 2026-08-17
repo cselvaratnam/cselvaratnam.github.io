@@ -16,6 +16,8 @@ I am something of a late developer as an author. I found my confidence during my
 <span class="note">Church planting is often reduced to a task of mission. This short book sets out the wider theological and practical reasons for planting, and the benefits it brings to the wider Church.</span>
 
 [Grove Books](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/1788273176){: .btn .btn--primary}
+
+<span class="note">Ian Paul interviewed me about this book for [*Psephizo*](https://www.psephizo.com/life-ministry/why-plant-churches/).</span>
 </div>
 
 <div class="book" markdown="1">
@@ -24,6 +26,8 @@ I am something of a late developer as an author. I found my confidence during my
 <span class="note">Drawing on my doctoral research into the pedagogy of the English medieval craft guilds, this book offers a fresh account of apprenticeship as a model for training in the Church. It argues that church planting, which requires theory and practical skill, is best understood and taught as a craft.</span>
 
 [SCM Press](https://scmpress.hymnsam.co.uk/books/9780334061816/the-craft-of-church-planting){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/0334061814){: .btn .btn--primary} [Amazon US](https://www.amazon.com/dp/0334061814){: .btn .btn--primary}
+
+<span class="note">Reviewed by John Inge in [*Church Times*](https://www.churchtimes.co.uk/articles/2023/13-october/books-arts/book-reviews/book-review-the-craft-of-church-planting-exploring-the-lost-wisdom-of-apprenticeship-by-christian-selvaratnam), Helen Wordsworth in [*Baptist Times*](https://www.baptist.org.uk/Articles/652705/The_Craft_of.aspx), and Robert Innes in [*Theology*](https://journals.sagepub.com/doi/abs/10.1177/0040571X231172890b).</span>
 </div>
 
 <div class="book" markdown="1">

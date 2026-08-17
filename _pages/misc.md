@@ -53,7 +53,7 @@ Not everything finds its way into a book. This page gathers everything else: art
 
 *LED24*, Pinsebevegelsen i Norge, February 2024. Two talks at a leadership conference in Norway: '[How to Train Leaders](https://www.youtube.com/watch?v=yoa39NzxL3M)' and '[How to Recruit Leaders](https://www.youtube.com/watch?v=OzRHBvbe21k)'. (video)
 
-'[Why plant churches?](https://www.psephizo.com/life-ministry/why-plant-churches/)' *Psephizo*, 24 January 2024. (blog)
+'[Why plant churches?](https://www.psephizo.com/life-ministry/why-plant-churches/)' *Psephizo*, 24 January 2024. Ian Paul interviews me about the Grove booklet. (interview)
 
 </details>
 
