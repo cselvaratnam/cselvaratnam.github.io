@@ -17,7 +17,7 @@ I am something of a late developer as an author. I found my confidence during my
 
 [Grove Books](https://grovebooks.co.uk/product/mev-142-why-plant-churches-theological-and-practical-reasons/){: .btn .btn--primary} [Amazon UK](https://www.amazon.co.uk/dp/1788273176){: .btn .btn--primary}
 
-<span class="note">Ian Paul interviewed me about this book for [*Psephizo*](https://www.psephizo.com/life-ministry/why-plant-churches/).</span>
+<span class="note">Ian Paul, the editor of Grove Books, interviewed me about this book for [*Psephizo*](https://www.psephizo.com/life-ministry/why-plant-churches/).</span>
 </div>
 
 <div class="book" markdown="1">
