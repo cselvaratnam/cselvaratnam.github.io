@@ -63,3 +63,10 @@ Not everything finds its way into a book. This page gathers everything else: art
 '[Church of England Liturgical Calendar](https://xbarapp.com/docs/plugins/Lifestyle/church-liturgical-calendar.1h.sh.html)' *xbar*. A plugin I vibe-coded for the Mac menu bar. It shows the season or festival of the day and the Collect of the Day, drawn live from the Church of England website. (code)
 
 </details>
+
+<details class="accordion" name="misc" markdown="1">
+<summary>Older</summary>
+
+*[Church of England Marriage (Amendment) Measure](https://publications.parliament.uk/pa/jt201213/jtselect/jtecc/47/4708.htm)*, Ecclesiastical Committee of Parliament, session 2012–13. I submitted two proposals to extend the right to marry in a parish church to people who habitually worship in a fresh expression of church or a bishop's mission order initiative. The Revision Committee supported them in principle but could not see how to define them with sufficient legal certainty, so they were not adopted. It did note that the issue 'would likely come up again in the future' — I think it still needs settling. (report)
+
+</details>
