@@ -110,13 +110,16 @@ details.accordion > summary {
 // ---------------------------------------------------------------------------
 // The crown-and-table mark.
 //
-// Placed with CSS rather than by overriding the theme's masthead and footer
-// templates — less of the theme to keep in step, and the mark is decorative so
+// Placed with CSS rather than by overriding the theme's masthead
+// template — less of the theme to keep in step, and the mark is decorative so
 // it belongs in the styling rather than the content.
 //
 // The source drawing uses `stroke="currentColor"`, but that only inherits the
 // page colour when the SVG is inlined. Loaded as a background image it cannot,
-// so `logo-header.svg` and `logo-footer.svg` have their colours baked in.
+// so `logo-header.svg` has its colour baked in.
+//
+// `logo-footer.svg` is no longer used on the page — the footer mark was
+// removed — but the file is kept in case it is wanted back.
 // ---------------------------------------------------------------------------
 
 // 2.85em is the 1.5em it started at, plus 90%. The negative vertical-align is
@@ -130,32 +133,6 @@ details.accordion > summary {
   margin-inline-end: 0.4em;
   vertical-align: -0.95em;
   background: url("/assets/images/logo-header.svg") no-repeat center / contain;
-}
-
-// Footer mark in its own column on the right, its top lined up with the top
-// of the social links — not dropped down beside the copyright line.
-//
-// `align-items: flex-start` is what does it: the mark aligns to the top of the
-// text column, and that column begins with the links. The social list carries
-// its own top padding from the theme, which would push the mark down by the
-// same amount, so that is cancelled on the mark.
-.page__footer-inner {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 1.5em;
-}
-
-.page__footer-text {
-  flex: 1 1 auto;
-  min-width: 0;
-}
-
-.page__footer-logo {
-  flex: 0 0 auto;
-  width: 2.5em;
-  height: 2.5em;
-  background: url("/assets/images/logo-footer.svg") no-repeat center / contain;
 }
 
 // ---------------------------------------------------------------------------

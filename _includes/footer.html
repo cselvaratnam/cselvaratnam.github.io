@@ -1,14 +1,13 @@
 {% comment %}
   Overrides the theme's own footer.html.
 
-  Two things are added: a flex wrapper, and the crown-and-table mark as a link
-  to the home page. The wrapper puts the mark in its own column to the right,
-  top-aligned with the social links rather than dropped down beside the
-  copyright line. The mark has to be real markup rather than CSS, because a
-  background image cannot be clicked.
+  Two changes from the theme's version: the credit line is reworded to name
+  Claude Code, and there is a flex wrapper around the text. That wrapper once
+  held the crown-and-table mark in a second column; the mark has been removed
+  but the wrapper is harmless and left in place.
 
-  The credit line is also reworded to name Claude Code. That drops the theme's
-  `powered_by` string from _data/ui-text.yml, which is no longer used here.
+  Rewording the credit drops the theme's `powered_by` string from
+  _data/ui-text.yml, which is no longer used here.
 
   Everything else is the theme's markup unchanged. If Minimal Mistakes is ever
   upgraded past 4.28.0, compare this against the new version.
@@ -43,5 +42,4 @@
 
   <div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. Managed by <a href="https://claude.com/product/claude-code" rel="nofollow">Claude Code</a> and powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
 </div>
-<a class="page__footer-logo" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape_once }} — home"></a>
 </div>
