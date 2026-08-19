@@ -33,7 +33,7 @@ I am something of a late developer as an author. I found my confidence during my
 <div class="book" markdown="1">
 ![Cover of Alpha as a Church Planting Tool](/assets/images/alpha-planting.jpg){: .cover}
 **Alpha as a Church Planting Tool** (Alpha International, 2017).
-<span class="note">A short study of why the Alpha course and church planting fit together so naturally. It goes some way to explaining why Alpha has proved such a catalyst for planting.</span>
+<span class="note">A short and simple study of why the Alpha course and church planting fit together so naturally. It goes some way to explaining why Alpha has proved such a catalyst for planting.</span>
 
 [Download (free)](/assets/documents/alpha-as-church-planting-tool.pdf){: .btn .btn--primary}
 </div>

@@ -6,7 +6,7 @@ header:
   image: /assets/images/banner2.jpg
 ---
 
-Not everything finds its way into a book. This page gathers everything else: articles and blog posts, podcasts, reviews, recordings of talks, and broadcasts. My books are on the [books page](/books/).
+Not everything finds its way into a book. This page gathers some of the rest: articles and blog posts, podcasts, reviews, recordings of talks, and broadcasts. My books are on the [books page](/books/).
 
 <details class="accordion" name="misc" markdown="1" open>
 <summary>2026</summary>
@@ -23,6 +23,8 @@ Not everything finds its way into a book. This page gathers everything else: art
 '[How churches can be intercultural](https://www.churchtimes.co.uk/articles/2025/5-december/comment/opinion/how-churches-can-be-intercultural)' *Church Times*, 5 December 2025. Becoming an intercultural parish church is more than welcoming people of different backgrounds. (article)
 
 '[Non-Anxious Leadership from the Coventry Blitz](https://selvaratnam.substack.com/p/non-anxious-leadership-from-the-coventry)' *Substack*, 5 May 2025. (blog)
+
+*Facebook*, 2025. [A note on Bible Society's *The Quiet Revival*](https://www.facebook.com/share/p/1CxjKvNDso/), written shortly after the report appeared. I argued that its headline figures — church attendance among 18–24-year-olds rising from 4 per cent to 21 per cent in six years — were not plausible against what I was seeing on the ground, and that the interpretation was as much of a problem as the data. Bible Society withdrew the report in March 2026, after YouGov found the survey sample had included fraudulent responses. (post)
 
 '[Church-Planting, the State of the Church in Europe, and Alpha](https://artofholiness.com/christian-selvaratnam/)' *Art of Holiness* with Carolyn Moore, 21 April 2025. (podcast)
 
@@ -64,9 +66,26 @@ Not everything finds its way into a book. This page gathers everything else: art
 
 </details>
 
+{% comment %}
+------------------------------------------------------------------------------
+HIDDEN. The 'Older' section and the Ecclesiastical Committee item it holds.
+To bring it back, delete the comment tag on the line above this block and the
+matching closing tag on the line below it.
+
+Deliberately a Liquid comment, not an HTML one: Jekyll strips this at build
+time so not a word reaches the browser. An HTML comment would still be sitting
+in the page source for anyone who looked.
+
+Do NOT write the literal Liquid comment tags inside here. Liquid counts opening
+and closing tags to find the end of the block, so a stray one in the prose can
+close the comment early and publish everything below it.
+------------------------------------------------------------------------------
+
 <details class="accordion" name="misc" markdown="1">
 <summary>Older</summary>
 
 *[Church of England Marriage (Amendment) Measure](https://publications.parliament.uk/pa/jt201213/jtselect/jtecc/47/4708.htm)*, Ecclesiastical Committee of Parliament, session 2012–13. I submitted two proposals to extend the right to marry in a parish church to people who habitually worship in a fresh expression of church or a bishop's mission order initiative. The Revision Committee supported them in principle but could not see how to define them with sufficient legal certainty, so they were not adopted. It did note that the issue 'would likely come up again in the future' — I think it still needs settling. (report)
 
 </details>
+
+{% endcomment %}
