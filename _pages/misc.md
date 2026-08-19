@@ -15,6 +15,8 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 
 *Church Going, with Giles Fraser*, BBC Radio 4, July 2026. I contributed to three episodes of Giles Fraser's series on the state of Christianity in England: [episode 1](https://www.bbc.co.uk/programmes/m002yvr9), [episode 2](https://www.bbc.co.uk/programmes/m002z9cq) and [episode 3](https://www.bbc.co.uk/programmes/m002zhng). (radio)
 
+'[The Nations on Campus: Sending, Receiving and Reaching](/assets/documents/the-nations-on-campus.pdf)' *Fusion USA Learning Community*, 28 May 2026. A talk on mission moving in three directions — sending, receiving and reaching — and what that means for campus ministry now that the nations have come to us. (talk)
+
 </details>
 
 <details class="accordion" name="misc" markdown="1">
