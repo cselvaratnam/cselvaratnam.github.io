@@ -6,7 +6,7 @@ header:
   image: /assets/images/banner2.jpg
 ---
 
-Not everything finds its way into a book. This page gathers some of the rest: articles and blog posts, podcasts, reviews, recordings of talks, and broadcasts. My books are on the [books page](/books/).
+Not everything finds its way into a book. This page gathers some of the rest: articles and blog posts, podcasts, reviews, recordings of talks, and broadcasts. My books are on the [books page](/books/), and my wider teaching on the [teaching page](/teaching/).
 
 <details class="accordion" name="misc" markdown="1" open>
 <summary>2026</summary>
@@ -24,7 +24,7 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 
 '[Non-Anxious Leadership from the Coventry Blitz](https://selvaratnam.substack.com/p/non-anxious-leadership-from-the-coventry)' *Substack*, 5 May 2025. (blog)
 
-*Facebook*, 2025. [A note on Bible Society's *The Quiet Revival*](https://www.facebook.com/share/p/1CxjKvNDso/), written shortly after the report appeared. I argued that its headline figures — church attendance among 18–24-year-olds rising from 4 per cent to 21 per cent in six years — were not plausible against what I was seeing on the ground, and that the interpretation was as much of a problem as the data. Bible Society withdrew the report in March 2026, after YouGov found the survey sample had included fraudulent responses. (post)
+*Facebook*, 23 April 2025. [A note on Bible Society's *The Quiet Revival*](https://www.facebook.com/share/p/1CxjKvNDso/), written days after the report appeared. I argued that its headline claims of a sharp rise in church attendance among young adults were not plausible against what I was seeing on the ground, and that the interpretation was as much of a problem as the data. Bible Society withdrew the report in March 2026, after YouGov found the survey sample had included fraudulent responses. (short post)
 
 '[Church-Planting, the State of the Church in Europe, and Alpha](https://artofholiness.com/christian-selvaratnam/)' *Art of Holiness* with Carolyn Moore, 21 April 2025. (podcast)
 
