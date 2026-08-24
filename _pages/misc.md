@@ -15,7 +15,7 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 
 *Church Going, with Giles Fraser*, BBC Radio 4, July 2026. I contributed to three episodes of Giles Fraser's series on the state of Christianity in England: [episode 1](https://www.bbc.co.uk/programmes/m002yvr9), [episode 2](https://www.bbc.co.uk/programmes/m002z9cq) and [episode 3](https://www.bbc.co.uk/programmes/m002zhng). (radio)
 
-'[The Nations on Campus: Sending, Receiving and Reaching](/assets/documents/the-nations-on-campus.pdf)' *Fusion USA Learning Community*, 28 May 2026. A talk on mission moving in three directions — sending, receiving and reaching — and what that means for campus ministry now that the nations have come to us. (talk)
+'[The Nations on Campus: Sending, Receiving and Reaching](/assets/documents/the-nations-on-campus.pdf)' *Fusion USA Learning Community*, 28 May 2026. A talk on mission to the nations for campus ministry now that the nations have come to us. (talk)
 
 </details>
 
@@ -48,6 +48,8 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 '[Michaelmas ordinations: Putting on the full armour of God](https://www.churchtimes.co.uk/articles/2024/4-october/features/features/michaelmas-ordinations-putting-on-the-full-armour-of-god)' *Church Times*, 4 October 2024. Why understanding trauma and building resilience now belong in training for ordained ministry. (article)
 
 '[Is Christian ministry artistry?](https://www.sheffield.anglican.org/wp-content/uploads/2024/09/Network-Magazine-Autumn-2024.pdf)' *Network*, Diocese of Sheffield, autumn 2024. (article)
+
+'[Resources churches: the Marmite effect](https://www.churchtimes.co.uk/articles/2024/9-august/features/features/resources-churches-the-marmite-effect)' *Church Times*, 9 August 2024. Madeleine Davies's two-part investigation into resource churches, for which I was interviewed and quoted. Part two: '[Resource churches: To sow, plant, or graft?](https://www.churchtimes.co.uk/articles/2024/16-august/features/features/resource-churches-to-sow-plant-or-graft)', 16 August 2024. (quoted)
 
 '[C of E should try this recipe for growth](https://www.churchtimes.co.uk/articles/2024/7-june/comment/opinion/c-of-e-should-try-this-recipe-for-growth)' *Church Times*, 7 June 2024. There is a better way to reverse falling attendance than merging struggling parishes. (article)
 
