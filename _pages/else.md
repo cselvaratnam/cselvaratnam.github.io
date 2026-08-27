@@ -1,6 +1,6 @@
 ---
-title: "Miscellany"
-permalink: /misc/
+title: "Everything Else"
+permalink: /else/
 description: "Articles, blog posts, interviews, podcasts and broadcasts by Christian Selvaratnam on church planting, mission and the life of the Church."
 header:
   image: /assets/images/banner2.jpg
