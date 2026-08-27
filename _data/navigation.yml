@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Books"
     url: /books/
-  - title: "Everything Else"
-    url: /else/
   - title: "Teaching"
     url: /teaching/
+  - title: "Everything Else"
+    url: /else/
