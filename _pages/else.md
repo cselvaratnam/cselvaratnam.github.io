@@ -8,7 +8,7 @@ header:
 
 Not everything finds its way into a book. This page gathers some of the rest: articles and blog posts, podcasts, reviews, recordings of talks, and broadcasts. My books are on the [books page](/books/), and my wider teaching on the [teaching page](/teaching/).
 
-<details class="accordion" name="misc" markdown="1" open>
+<details class="accordion" name="else" markdown="1" open>
 <summary>2026</summary>
 
 '[Learning from the American Civil Rights Story](https://selvaratnam.substack.com/p/learning-from-the-american-civil)' *Substack*, 3 August 2026. Two days in Birmingham and Atlanta in the American south, and what they taught me about the civil rights movement. (blog)
@@ -19,7 +19,7 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 
 </details>
 
-<details class="accordion" name="misc" markdown="1">
+<details class="accordion" name="else" markdown="1">
 <summary>2025</summary>
 
 '[How churches can be intercultural](https://www.churchtimes.co.uk/articles/2025/5-december/comment/opinion/how-churches-can-be-intercultural)' *Church Times*, 5 December 2025. Becoming an intercultural parish church is more than welcoming people of different backgrounds. (article)
@@ -40,7 +40,7 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 
 </details>
 
-<details class="accordion" name="misc" markdown="1">
+<details class="accordion" name="else" markdown="1">
 <summary>2024</summary>
 
 *Development Day*, Diocese of Sheffield, October 2024. The [keynote address](https://www.youtube.com/watch?v=Cb8jl-L3ZDk), and a workshop on [developing speakers and preachers](https://www.youtube.com/watch?v=8DswylRUwdc). (video)
@@ -63,7 +63,7 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 
 </details>
 
-<details class="accordion" name="misc" markdown="1">
+<details class="accordion" name="else" markdown="1">
 <summary>Code</summary>
 
 '[Church of England Liturgical Calendar](https://xbarapp.com/docs/plugins/Lifestyle/church-liturgical-calendar.1h.sh.html)' *xbar*. A plugin I vibe-coded for the Mac menu bar. It shows the season or festival of the day and the Collect of the Day, drawn live from the Church of England website. (code)
@@ -85,7 +85,7 @@ and closing tags to find the end of the block, so a stray one in the prose can
 close the comment early and publish everything below it.
 ------------------------------------------------------------------------------
 
-<details class="accordion" name="misc" markdown="1">
+<details class="accordion" name="else" markdown="1">
 <summary>Older</summary>
 
 *[Church of England Marriage (Amendment) Measure](https://publications.parliament.uk/pa/jt201213/jtselect/jtecc/47/4708.htm)*, Ecclesiastical Committee of Parliament, session 2012–13. I submitted two proposals to extend the right to marry in a parish church to people who habitually worship in a fresh expression of church or a bishop's mission order initiative. The Revision Committee supported them in principle but could not see how to define them with sufficient legal certainty, so they were not adopted. It did note that the issue 'would likely come up again in the future' — I think it still needs settling. (report)
