@@ -1,0 +1,46 @@
+{% comment %}
+------------------------------------------------------------------------------
+OVERRIDES the theme's own _includes/footer.html (minimal-mistakes 4.28.0).
+
+WHY IT EXISTS: the credit line is assembled partly from _data/ui-text.yml
+(`powered_by`) and partly from text hardcoded in this template. The theme
+prints `powered_by`, then "Jekyll & Minimal Mistakes." with the full stop --
+so anything that has to appear AFTER Minimal Mistakes, such as the GitHub
+hosting credit, cannot come from ui-text.yml. It has to be added here.
+
+Everything before the words "and hosted by" still comes from ui-text.yml.
+Change the wording of the first half there, not in this file.
+
+KEEPING IT IN STEP: this is a verbatim copy of the 4.28.0 template with ONE
+edit -- the tail of the last line. If the theme pin in _config.yml is ever
+raised, re-fetch that version's footer.html and re-apply the same one-line
+change, or the footer will silently drift behind the theme.
+------------------------------------------------------------------------------
+{% endcomment %}
+{% assign locale = include.locale | default: site.locale %}
+{% unless site.atom_feed.hide %}
+  {% assign show_atom = true %}
+{% endunless %}
+{% if site.footer.links or show_atom %}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer{% if link.rel %} {{ link.rel }}{% endif %}"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label | escape_once | strip }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-square-rss" aria-hidden="true"></i> {{ site.data.ui-text[locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
+{% endif %}
+
+<div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. {{ site.data.ui-text[locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> and hosted by <a href="https://pages.github.com" rel="nofollow">GitHub</a>.</div>
