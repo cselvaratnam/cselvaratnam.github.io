@@ -22,6 +22,8 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 <details class="accordion" name="else" markdown="1">
 <summary>2025</summary>
 
+'[Miracles that point to Jesus](/assets/documents/miracles-that-point-to-jesus.pdf)' Manchester Cathedral, 5 October 2025. The sermon at the installation of the honorary canons, on the healing of the man born blind in John 9. [Reported by the Diocese of Manchester](https://www.manchester.anglican.org/honorary-canons-installed-at-manchester-cathedral/). (sermon)
+
 '[How churches can be intercultural](https://www.churchtimes.co.uk/articles/2025/5-december/comment/opinion/how-churches-can-be-intercultural)' *Church Times*, 5 December 2025. Becoming an intercultural parish church is more than welcoming people of different backgrounds. (article)
 
 '[Non-Anxious Leadership from the Coventry Blitz](https://selvaratnam.substack.com/p/non-anxious-leadership-from-the-coventry)' *Substack*, 5 May 2025. (blog)
