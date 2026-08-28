@@ -11,6 +11,8 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 <details class="accordion" name="else" markdown="1" open>
 <summary>2026</summary>
 
+'[Three Countries and Three Ways to Pay for Lunch](https://selvaratnam.substack.com/p/three-countries-and-three-ways-to)' *Substack*, 28 August 2026. Eating out in America, England and France in a single month, and what each country's way of tipping says about how service gets paid for. (blog)
+
 '[Learning from the American Civil Rights Story](https://selvaratnam.substack.com/p/learning-from-the-american-civil)' *Substack*, 3 August 2026. Two days in Birmingham and Atlanta in the American south, and what they taught me about the civil rights movement. (blog)
 
 *Church Going, with Giles Fraser*, BBC Radio 4, July 2026. I contributed to three episodes of Giles Fraser's series on the state of Christianity in England: [episode 1](https://www.bbc.co.uk/programmes/m002yvr9), [episode 2](https://www.bbc.co.uk/programmes/m002z9cq) and [episode 3](https://www.bbc.co.uk/programmes/m002zhng). (radio)
