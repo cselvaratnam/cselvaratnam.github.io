@@ -10,8 +10,7 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 
 <details class="accordion" name="else" markdown="1" open>
 <summary>2026</summary>
-
-'[Three Countries and Three Ways to Pay for Lunch](https://selvaratnam.substack.com/p/three-countries-and-three-ways-to)' *Substack*, 28 August 2026. Eating out in America, England and France in a single month, and what each country's way of tipping says about how service gets paid for. (blog)
+'[Three Countries and Three Ways to Pay for Lunch](https://selvaratnam.substack.com/p/three-countries-and-three-ways-to)' *Substack*, 28 August 2026. Tipping culture and eating out in America, England and France in a single month. (blog)
 
 '[Learning from the American Civil Rights Story](https://selvaratnam.substack.com/p/learning-from-the-american-civil)' *Substack*, 3 August 2026. Two days in Birmingham and Atlanta in the American south, and what they taught me about the civil rights movement. (blog)
 
