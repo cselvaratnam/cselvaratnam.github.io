@@ -55,7 +55,7 @@ Not everything finds its way into a book. This page gathers some of the rest: ar
 
 '[Exploring Social Dynamics within the Mixed Ecology of Church](https://www.youtube.com/watch?v=dH21m_El8DM)' The Bede Centre for Church Planting Theology, 27 March 2024. (video)
 
-'[Resilience in Ministry](https://new-wine.online/programs/3-christian-selvaratnam-893422)' a keynote at the *New Wine Leadership Conference*, Harrogate, February 2024. (video)
+'[Resilience in Ministry](https://new-wine.online/programs/3-christian-selvaratnam-893422)' a keynote at the *New Wine Leadership Conference*, Harrogate, February 2024. Watching it needs a New Wine Online account. (video)
 
 *LED24*, Pinsebevegelsen i Norge, February 2024. Two talks at a leadership conference in Norway: '[How to Train Leaders](https://www.youtube.com/watch?v=yoa39NzxL3M)' and '[How to Recruit Leaders](https://www.youtube.com/watch?v=OzRHBvbe21k)'. (video)
 
