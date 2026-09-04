@@ -11,6 +11,12 @@ I am something of a late developer as an author. I found my confidence during my
 <details class="accordion" name="books" markdown="1" open>
 <summary>Books</summary>
 <div class="book" markdown="1">
+![Cover of Church Planting Bibliography](/assets/images/church-planting-bibliography.jpg){: .cover}
+**Church Planting Bibliography**
+<span class="note">Compiled over years of teaching church planting, this annotated bibliography gathers nearly three hundred books, chapters, articles and other resources. Each is arranged by subject and carries a short note saying what it is and where it is most useful. It is updated as new work is published, so it is worth returning to.</span>
+</div>
+
+<div class="book" markdown="1">
 ![Cover of Why Plant Churches?](/assets/images/why-plant.jpg){: .cover}
 **Why Plant Churches? Theological and Practical Reasons** (Grove Books, 2023).
 <span class="note">Church planting is often reduced to a task of mission. This short book sets out the wider theological and practical reasons for planting, and the benefits it brings to the wider Church.</span>
