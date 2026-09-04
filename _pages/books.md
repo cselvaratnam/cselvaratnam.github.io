@@ -12,8 +12,8 @@ I am something of a late developer as an author. I found my confidence during my
 <summary>Books</summary>
 <div class="book" markdown="1">
 ![Cover of Church Planting Bibliography](/assets/images/church-planting-bibliography.jpg){: .cover}
-**Church Planting Bibliography**
-<span class="note">Compiled over years of teaching church planting, this annotated bibliography gathers nearly three hundred books, chapters, articles and other resources. Each is arranged by subject and carries a short note saying what it is and where it is most useful. It is updated as new work is published, so it is worth returning to.</span>
+**Church Planting Bibliography**.  
+<span class="note">Compiled over years of teaching church planting, this annotated bibliography gathers nearly three hundred books, chapters, articles and other resources. Each is arranged by subject and carries a short note saying what it is and where it is most useful. It is updated continually. Check back here for the latest version.</span>
 </div>
 
 <div class="book" markdown="1">
