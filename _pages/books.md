@@ -12,7 +12,7 @@ I am something of a late developer as an author. I found my confidence during my
 <summary>Books</summary>
 <div class="book" markdown="1">
 ![Cover of Church Planting Bibliography](/assets/images/planting-bibliography.jpg){: .cover}
-**Church Planting Bibliography: Annotated Reading Lists for Students**.  
+**Church Planting Bibliography: Annotated Reading Lists for Students** (St Hild Centre for Church Planting, 2026).
 <span class="note">A reference book for students of church planting and those who teach them, drawing on more than 25 years of my own study and teaching. It sets out nearly 80 reading lists I have compiled, covering more than 800 annotated books and resources. The book is indexed and cross-referenced. A glossary explains more than 100 terms students meet in the literature, and short biographies introduce more than 40 key authors in the field. If you teach church planting, you are welcome to use it free for non-profit purposes; please do not redistribute it.</span>
 
 [Free copy for teachers](/bibliography/){: .btn .btn--primary}
