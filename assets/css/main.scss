@@ -281,6 +281,13 @@ details.accordion {
   color: $muted-text-color;
 }
 
+// In a book entry, the description starts on its own line below the title.
+// Without this it runs straight on after the title, which only looked right
+// where the title happened to fill its line.
+.book .note {
+  display: block;
+}
+
 // ---------------------------------------------------------------------------
 // Book cover images.
 //

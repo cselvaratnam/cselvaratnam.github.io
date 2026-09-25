@@ -19,7 +19,7 @@ The selection reflects my own teaching. It is weighted towards England, where I 
 
 ## Download
 
-The content is the same in both paper sizes.
+The book is available in two common paper sizes, A4 and US Letter. The content is the same in both.
 
 [Download (A4)](/assets/documents/church-planting-bibliography-a4.pdf){: .btn .btn--primary} [Download (US Letter)](/assets/documents/church-planting-bibliography-us-letter.pdf){: .btn .btn--primary}
 
