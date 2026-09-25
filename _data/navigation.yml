@@ -1,0 +1,12 @@
+# The links in the top masthead bar.
+# The site title on the left already links to the home page, so home is not
+# repeated here. Add an entry to add a nav item.
+main:
+  - title: "About"
+    url: /about/
+  - title: "Books"
+    url: /books/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Everything Else"
+    url: /else/

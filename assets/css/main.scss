@@ -1,0 +1,338 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough).
+search: false
+---
+
+@charset "utf-8";
+
+// ---------------------------------------------------------------------------
+// PALETTE — black text, Claude orange headings, grey for everything secondary
+//
+// These must sit ABOVE the two imports. The theme declares its colours with
+// `!default`, meaning "use this unless already set", so anything defined here
+// wins. Move this block below the imports and it stops working.
+//
+// Only literal colours here — theme variables like `$dark-gray` do not exist
+// yet at this point in the file.
+//
+// Two shades of one orange, and the reason for two:
+//   #d97757  Claude orange -- 3.1:1 on white. Fine for large display type,
+//            FAILS the 4.5:1 needed for body text. Headings and the logo only.
+//   #a34e2e  the same orange darkened -- 5.7:1. Used anywhere the colour
+//            carries text a reader has to read: links and button labels.
+//   #6a6a6a  grey -- 5.4:1. Secondary text, header and footer links.
+// ---------------------------------------------------------------------------
+
+$background-color: #ffffff;
+$text-color: #000000;
+$muted-text-color: #6a6a6a; // book blurbs and other secondary text
+
+$primary-color: #a34e2e;    // darkened orange — buttons need readable labels
+$link-color: #a34e2e;
+$link-color-hover: #d97757;
+$link-color-visited: #a34e2e;
+
+$masthead-link-color: #6a6a6a;
+$masthead-link-color-hover: #a34e2e;
+$navicon-link-color-hover: #6a6a6a;
+
+$border-color: #e5e5e5;
+$footer-background-color: #ffffff;
+$form-background-color: #f7f7f7;
+$code-background-color: #f7f7f7;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// ---------------------------------------------------------------------------
+// Where the colours land.
+// ---------------------------------------------------------------------------
+
+// His name, top left. The selector has to be this specific: his name is a link
+// inside `.greedy-nav`, and the theme sets `.greedy-nav a { color: ... }` to
+// the masthead grey. A plain `.site-title` is less specific and loses.
+.greedy-nav a.site-title {
+  color: #d97757;
+}
+
+// Headings, including the accordion summaries that stand in for headings.
+//
+// `.page__title a` is not redundant. The theme wraps the page title text in a
+// link pointing at the page itself, and colours that link with the body text
+// colour. Styling only the `<h1>` leaves the words black, because the link
+// inside it wins.
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.page__title a,
+details.accordion > summary {
+  color: #d97757;
+}
+
+// Footer links grey, matching the header.
+.page__footer a,
+.page__footer-follow a {
+  color: #6a6a6a;
+
+  &:hover {
+    color: #a34e2e;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Buttons: outlined rather than filled — orange edge, orange label, white
+// inside. Filling on hover gives the press some feedback.
+//
+// The darker #a34e2e is deliberate. Claude orange itself is 3.1:1 on white,
+// and a button label is normal-size text needing 4.5:1, so the true brand
+// orange would leave the words hard to read. This shade reaches 5.7:1 and
+// still reads as the same colour. White on it when filled is 5.7:1 too.
+// ---------------------------------------------------------------------------
+
+.btn.btn--primary {
+  background-color: transparent;
+  color: #a34e2e;
+  border: 2px solid #a34e2e;
+
+  &:visited {
+    background-color: transparent;
+    color: #a34e2e;
+    border-color: #a34e2e;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: #a34e2e;
+    color: #ffffff;
+    border-color: #a34e2e;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// The crown-and-table mark.
+//
+// Placed with CSS rather than by overriding the theme's masthead
+// template — less of the theme to keep in step, and the mark is decorative so
+// it belongs in the styling rather than the content.
+//
+// The source drawing uses `stroke="currentColor"`, but that only inherits the
+// page colour when the SVG is inlined. Loaded as a background image it cannot,
+// so `logo-header.svg` has its colour baked in.
+//
+// `logo-footer.svg` is no longer used on the page — the footer mark was
+// removed — but the file is kept in case it is wanted back.
+// ---------------------------------------------------------------------------
+
+// 2.85em is the 1.5em it started at, plus 90%. The negative vertical-align is
+// roughly half the difference between the mark and the text line, which is
+// what keeps the name optically centred against it.
+.greedy-nav a.site-title::before {
+  content: "";
+  display: inline-block;
+  width: 2.85em;
+  height: 2.85em;
+  margin-inline-end: 0.4em;
+  vertical-align: -0.95em;
+  background: url("/assets/images/logo-header.svg") no-repeat center / contain;
+}
+
+// ---------------------------------------------------------------------------
+// TRUE SINGLE COLUMN
+//
+// Minimal Mistakes assumes an author sidebar on the left: above the $large
+// breakpoint it floats `.page` to the inline-end and sets its width to
+// `calc(100% - 200px)`, reserving that 200px for the sidebar.
+//
+// We have `author_profile: false`, so no sidebar is rendered at all -- but the
+// reserved space remains, leaving the content shunted right with a large dead
+// margin on the left. `classes: wide` does NOT fix this: it only zeroes the
+// end padding, not the reduced width or the float. Measured before this
+// override, at a 1280px viewport: 322px of space on the left, 22px on the
+// right.
+//
+// So undo the float, restore full width, and centre the column on a
+// comfortable measure. Delete this block and the lopsided layout returns.
+// ---------------------------------------------------------------------------
+
+.page,
+.page__related {
+  float: none;
+  width: 100%;
+  padding-inline-end: 0;
+  max-width: 48em;
+  margin-inline: auto;
+}
+
+// `display: flow-root` is doing real work here, not tidying. Removing the
+// float above also removed the block formatting context that contained the
+// theme's floated `.page__inner-wrap`. Without it `.page` collapses to zero
+// height -- measured at 0px while its own content was 12,907px tall -- which
+// throws the spacing above the footer out. flow-root restores containment
+// without bringing the lopsided float back.
+//
+// `padding-top` gives the page title room to breathe under the masthead.
+// Do not move this to `.page__inner-wrap`: the theme targets that with a more
+// specific selector and will win.
+.page {
+  display: flow-root;
+  padding-top: 0;
+}
+
+// Vertical spacing, tuned by measurement rather than guesswork.
+//
+// Above the title: was 99px from the bottom of the banner, now 59px (-40%).
+// Below the last paragraph: was 55px to the footer, now 38px (-31%).
+//
+// The bottom gap was mostly caused by `footer.page__meta`, which the theme
+// always renders and which is completely EMPTY here -- read_time, share,
+// comments and related are all off. It has no height, but it carried a 33px
+// top margin. That is what the 1em below is trimming.
+.page > .page__inner-wrap {
+  margin-top: 0.7em;
+}
+
+.page__meta {
+  margin-top: 1em;
+}
+
+// The theme's own margin here stacked on top of the gap above, leaving a broad
+// band of white between the last paragraph and the footer.
+.page__footer {
+  margin-top: 0;
+}
+
+// ---------------------------------------------------------------------------
+// Hide the permalink chain-link icon the theme injects after every heading.
+//
+// It is added by the theme's JavaScript *after* the page loads, so it does not
+// appear in the served HTML -- view-source and curl will not show it. Only the
+// rendered DOM does.
+// ---------------------------------------------------------------------------
+
+.header-link {
+  display: none;
+}
+
+// ---------------------------------------------------------------------------
+// Accordion sections (Teaching page).
+//
+// The exclusive behaviour -- open one, the rest close -- comes from the shared
+// `name` attribute on <details>, which is native HTML. No JavaScript. Styling
+// here just makes the summary read like the headings it replaced.
+// ---------------------------------------------------------------------------
+
+details.accordion {
+  border-top: 1px solid rgba(128, 128, 128, 0.25);
+
+  &:last-of-type {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+  }
+
+  > summary {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.15em;
+    padding: 0.75em 1.5em 0.75em 0;
+    position: relative;
+    list-style: none; // hides the default triangle
+
+    &::-webkit-details-marker {
+      display: none; // Safari needs telling separately
+    }
+
+    &::after {
+      content: "+";
+      position: absolute;
+      inset-inline-end: 0;
+      font-weight: normal;
+    }
+  }
+
+  &[open] > summary::after {
+    content: "\2212"; // minus sign, not a hyphen
+  }
+
+  &[open] {
+    padding-bottom: 0.5em;
+  }
+
+  > summary + * {
+    margin-top: 0;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Play down the theme credit line in the footer. It is a courtesy, not
+// something a visitor needs to read.
+// ---------------------------------------------------------------------------
+
+.page__footer-copyright {
+  opacity: 0.55;
+  font-size: 0.7em;
+}
+
+// ---------------------------------------------------------------------------
+// Descriptions under each book and chapter. Grey rather than italic: italics
+// over three or four lines slow reading down, and they clashed with the
+// italics used for titles. `$muted-text-color` is the theme's own grey, so
+// this follows if the skin ever changes.
+// ---------------------------------------------------------------------------
+
+.note {
+  color: $muted-text-color;
+}
+
+// ---------------------------------------------------------------------------
+// Book cover images.
+//
+// Save covers 360px wide (2x the 180px they display at, so they stay sharp on
+// retina screens) and keep each file under about 60KB.
+//
+// Mobile first: a centred block above the text. From tablet width up, it moves
+// to the right and the text wraps around it.
+//
+// `clear: right` matters — without it, a cover whose description is shorter
+// than the image would collide with the next book down the page.
+// ---------------------------------------------------------------------------
+
+.cover {
+  display: block;
+  width: 180px;
+  max-width: 50%;
+  margin: 0 auto 1em;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+
+@media (min-width: 768px) {
+  .cover {
+    float: right;
+    clear: right;
+    max-width: none;
+    margin: 0.25em 0 1em 1.5em;
+  }
+}
+
+// Each book sits in its own block. This is what stops a tall cover from
+// letting the NEXT book's text ride up alongside it: `flow-root` makes the
+// block full-height around its floated cover, so the following entry starts
+// below it.
+//
+// `clear: right` on `.cover` alone was not enough — that only stops covers
+// colliding with each other, not with the text that follows.
+.book {
+  display: flow-root;
+  margin-bottom: 2em;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Belt and braces: a cover cannot escape its accordion section either.
+details.accordion[open] {
+  display: flow-root;
+}
+
+// ---------------------------------------------------------------------------
+// Your own overrides go below. They load after the theme, so they win.
+// ---------------------------------------------------------------------------
