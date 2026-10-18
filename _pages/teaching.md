@@ -41,6 +41,8 @@ The Church of England and its main ecumenical partners train their ministers thr
 
 I am the Director of Studies for the Asbury Theological Seminary Doctor of Ministry in the UK and Europe. It is a cohort-based doctorate for experienced leaders who stay in ministry while they study, bringing together academic work and their own field research. It is taught in a British and European setting, and aims to form practitioner-theologians.
 
+I supervise research students who are using theologically informed empirical research to identify the practices and conditions that foster church growth, church planting and church revitalisation, and help their leaders to flourish.
+
 Recruitment is now open for the next cohort, *Mission Entrepreneurship and Church Multiplication*, which runs from 2027 to 2030 — [find out more and apply](https://sthildplanting.org/asbury). It follows *Church Planting in Evangelical, Sacramental and Pentecostal Perspective* (2024–2027) and *Church Planting in Post-Christendom Europe* (2021–2024).
 
 </details>
