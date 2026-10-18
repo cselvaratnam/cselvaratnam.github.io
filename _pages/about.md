@@ -24,6 +24,6 @@ I trained for ordained ministry in the Church of England at [Cranmer Hall](https
 
 Over the past twenty-five years I have led two church plants myself, and have sent, supported or supervised several others. In addition to my teaching work, I serve on a number of boards related to mission, church renewal, church planting and education in the UK, Europe and North America.
 
-I am a Distinguished Canon of [Manchester Cathedral](https://manchestercathedral.org), a Visiting Fellow of [St John's College](https://www.durham.ac.uk/colleges-and-student-experience/colleges/st-johns/) at Durham University, an Adjunct Professor at [Asbury Theological Seminary](https://asburyseminary.edu), an Evangelist in the [College of Archbishops' Evangelists](https://archbishopsevangelists.org), and a member of the [General Synod](https://www.churchofengland.org/about/governance/general-synod) of the Church of England.
+I am a Distinguished Canon of [Manchester Cathedral](https://manchestercathedral.org), a Visiting Fellow of [St John's College](https://www.durham.ac.uk/colleges-and-student-experience/colleges/st-johns/) at Durham University, an Adjunct Professor at [Asbury Theological Seminary](https://asburyseminary.edu), and an Evangelist in the [College of Archbishops' Evangelists](https://archbishopsevangelists.org).
 
 I live in York. With my wife I am a judge for several regional tourism awards and a mystery shopper. As time allows, I volunteer at my local Parkrun, and once a month I carve wooden spoons with a local group.
