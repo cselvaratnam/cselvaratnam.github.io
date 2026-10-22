@@ -8,7 +8,8 @@
   --sans: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
 }
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+html { -webkit-text-size-adjust: 100%; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
 body {
   margin: 0;
   background: #FFFFFF;
@@ -22,10 +23,10 @@ a:hover { text-decoration-thickness: 2px; }
 .wrap { max-width: 64rem; margin: 0 auto; padding: 0 1rem; }
 
 /* skip link and banner */
-.skip { position: absolute; left: -999px; top: 0; background: #FFFFFF; color: var(--rubric); padding: .75rem 1rem; font: 600 16px/1.2 var(--sans); z-index: 10; }
+.skip { position: absolute; left: -999px; top: 0; display: inline-flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; background: #FFFFFF; color: var(--rubric); padding: .5rem 1rem; font: 600 16px/1.2 var(--sans); z-index: 10; }
 .skip:focus { left: 0; }
 .banner { background: var(--paper); color: var(--soft); font: 400 13px/1.4 var(--sans); padding: .45rem 1rem; text-align: center; }
-.banner a { color: var(--rubric); }
+.banner a { color: var(--rubric); display: inline-block; min-width: 44px; padding: 14px 6px; margin: -14px -6px; }
 
 /* masthead */
 .mast { background: #FFFFFF; border-bottom: 2px solid var(--rubric); }
@@ -33,6 +34,7 @@ a:hover { text-decoration-thickness: 2px; }
 .name { display: inline-flex; align-items: center; gap: .6rem; min-height: 44px; font: 600 22px/1.2 var(--serif); color: var(--ink); text-decoration: none; }
 .name img { display: block; flex: none; }
 .name:hover { text-decoration: underline; text-decoration-color: var(--rubric); }
+.name[aria-current="page"] { text-decoration-thickness: 2px; text-underline-offset: 6px; }
 nav { font-family: var(--sans); }
 nav ul { list-style: none; margin: 0; padding: 0; }
 nav a { color: var(--ink); text-decoration: none; }
@@ -41,7 +43,7 @@ nav .contents { width: 100%; }
 nav summary { display: flex; align-items: center; min-height: 44px; font: 600 16px/1.2 var(--sans); cursor: pointer; color: var(--ink); }
 nav .stack { border-top: 1px solid var(--soft); }
 nav .stack a { display: flex; align-items: center; min-height: 44px; font-size: 16px; border-bottom: 1px solid #d9d4cc; }
-nav a[aria-current="page"] { text-decoration: underline; text-decoration-color: var(--rubric); text-decoration-thickness: 2px; text-underline-offset: 6px; }
+nav a[aria-current="page"], .name[aria-current="page"], .flinks a[aria-current="page"] { text-decoration: underline; text-decoration-color: var(--rubric); text-decoration-thickness: 2px; text-underline-offset: 6px; }
 nav a:hover { text-decoration: underline; text-decoration-color: var(--rubric); text-decoration-thickness: 2px; text-underline-offset: 6px; }
 @media (max-width: 719.98px) {
   .mast-in { display: block; }
@@ -49,7 +51,7 @@ nav a:hover { text-decoration: underline; text-decoration-color: var(--rubric); 
 @media (min-width: 720px) {
   nav .contents { display: none; }
   nav .row { display: flex; flex-wrap: wrap; column-gap: 1.25rem; }
-  nav .row a { display: inline-flex; align-items: center; min-height: 44px; font-size: 16px; }
+  nav .row a { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; font-size: 16px; }
 }
 
 /* headings */
@@ -90,9 +92,9 @@ li > .note { margin-top: .25rem; margin-bottom: .9rem; }
 .strand h3 { margin-top: 0; }
 .strand-body { display: flex; gap: .9rem; align-items: flex-start; }
 .strand-body p { margin-bottom: .4rem; }
-.strand .mini { flex: none; height: 72px; width: 52px; object-fit: cover; display: block; border: 1px solid #d9d4cc; }
+.strand .mini { flex: none; width: 120px; height: auto; display: block; border: 1px solid #d9d4cc; }
 .strand-body > div:first-child:not(:only-child) { flex: 1 1 0; min-width: 0; }
-.strand-body.nocover { padding-left: calc(52px + .9rem); }
+.strand-body.nocover { padding-left: calc(120px + .9rem); }
 .lead { font-size: 16px; }
 
 /* publications */
@@ -117,7 +119,9 @@ li > .note { margin-top: .25rem; margin-bottom: .9rem; }
 .foot p { margin: 0 0 .6rem; }
 .foot a { color: var(--soft); }
 .flinks { list-style: none; margin: 0 0 .6rem; padding: 0; display: flex; flex-wrap: wrap; gap: .1rem 1.1rem; }
-.flinks li { display: inline-flex; align-items: center; min-height: 32px; gap: .4rem; }
+.flinks li { display: inline-flex; align-items: center; min-height: 44px; gap: .4rem; }
+.flinks a { display: inline-flex; align-items: center; min-height: 44px; }
+.flinks a[aria-current="page"] { color: var(--ink); text-decoration-color: var(--rubric); text-decoration-thickness: 2px; text-underline-offset: 6px; }
 
 /* wide: ruled margin, hanging numerals */
 @media (min-width: 960px) {
@@ -133,9 +137,12 @@ li > .note { margin-top: .25rem; margin-bottom: .9rem; }
   .ruled > ul.entries > li { margin-bottom: .9rem; }
   .ruled > .figs { grid-column: 1 / -1; }
   .ruled > .first { grid-column: 1; }
-  .home-top > .first { grid-row: 1 / span 2; }
-  .home-top > .portrait-note { grid-row: 1; }
-  .home-top > .current { grid-row: 2; }
+  .home { grid-template-rows: auto auto 1fr; }
+  .home > .lcol { grid-column: 1; grid-row: 1 / span 3; }
+  .home > .portrait-note { grid-row: 1; }
+  .home > .current { grid-row: 2; }
+  .home > .flag { grid-row: 3; margin-top: .3rem; }
+  .home > * { order: 0; }
   .about-top > .first { grid-row: 1 / span 2; }
   .note.portrait-note, .portrait-note { margin-top: .5rem; }
   .num { margin-right: 0; }
@@ -154,3 +161,18 @@ li > .note { margin-top: .25rem; margin-bottom: .9rem; }
   .book .cover { width: 120px; }
 }
 @media print { .banner, nav, .skip { display: none; } }
+
+/* home: phone order. 'Current' follows the name and standfirst, before the opening paragraph */
+.lcol { display: contents; }
+@media (min-width: 960px) { .lcol { display: block; } }
+@media (max-width: 959.98px) {
+  .home { display: flex; flex-direction: column; }
+  .home > * { order: 8; }
+  .home .head { order: 1; }
+  .home > .current { order: 2; margin-top: 0; }
+  .home .para { order: 3; }
+  .home > .portrait-note { order: 4; }
+  .home .lcol > h2 { order: 5; }
+  .home > .flag { order: 6; }
+  .home .strands { order: 7; }
+}
