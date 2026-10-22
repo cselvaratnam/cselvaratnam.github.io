@@ -68,6 +68,38 @@ details.accordion > summary {
   color: #d97757;
 }
 
+// The home page's subheading under the name: larger, grey, pulled up close to
+// the heading (22 October 2026).
+.lead {
+  font-size: 1.25em;
+  color: $muted-text-color;
+  margin-top: -0.5em;
+}
+
+// Home page: a row of book covers under 'Books and chapters', each a link to
+// the Books page. Wraps on narrow screens.
+.covers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-bottom: 1.5em;
+
+  img {
+    display: block;
+    height: 170px;
+    width: auto;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  }
+}
+
+// The contact line in the footer, above the copyright.
+.page__footer-contact {
+  font-size: 0.8em;
+  color: #6a6a6a;
+  margin-bottom: 0.5em;
+}
+
 // Footer links grey, matching the header.
 .page__footer a,
 .page__footer-follow a {

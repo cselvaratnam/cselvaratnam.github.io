@@ -11,8 +11,10 @@ hosting credit, cannot come from ui-text.yml. It has to be added here.
 Everything before the words "and hosted by" still comes from ui-text.yml.
 Change the wording of the first half there, not in this file.
 
-KEEPING IT IN STEP: this is a verbatim copy of the 4.28.0 template with ONE
-edit -- the tail of the last line. If the theme pin in _config.yml is ever
+KEEPING IT IN STEP: this is a verbatim copy of the 4.28.0 template with TWO
+edits -- the tail of the last line, and the contact line added before the
+copyright (Christian's email, written in words and never as a mailto link,
+moved here from the home page on 22 October 2026). If the theme pin in _config.yml is ever
 raised, re-fetch that version's footer.html and re-apply the same one-line
 change, or the footer will silently drift behind the theme.
 ------------------------------------------------------------------------------
@@ -42,5 +44,7 @@ change, or the footer will silently drift behind the theme.
   </ul>
 </div>
 {% endif %}
+
+<div class="page__footer-contact">Contact: christian [dot] selvaratnam [at] gmail [dot] com</div>
 
 <div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. {{ site.data.ui-text[locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> and hosted by <a href="https://pages.github.com" rel="nofollow">GitHub</a>.</div>
