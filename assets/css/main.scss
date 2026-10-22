@@ -74,8 +74,9 @@ details.accordion > summary {
 // otherwise wins, leaving the line at body size.
 .page__content p.lead {
   font-size: 1.25em;
-  color: $muted-text-color;
-  margin-top: -0.5em;
+  font-weight: 600;
+  color: #444444; // darker than the muted grey so it stands out (10:1 on white)
+  margin-top: -1.1em; // pull it up under the name
 }
 
 // Home page: a row of book covers under 'Books and chapters', each a link to
