@@ -114,6 +114,14 @@ details.accordion > summary {
   margin-bottom: 0.5em;
 }
 
+// No sticky footer. The theme makes <body> a flex column of at least the
+// window's height and lets `.initial-content` grow, so on a tall screen the
+// footer is pinned to the bottom with empty space above it. Christian wants
+// the footer to follow the content instead (22 October 2026).
+.initial-content {
+  flex: 0 0 auto;
+}
+
 // Footer links grey, matching the header.
 .page__footer a,
 .page__footer-follow a {
