@@ -69,8 +69,10 @@ details.accordion > summary {
 }
 
 // The home page's subheading under the name: larger, grey, pulled up close to
-// the heading (22 October 2026).
-.lead {
+// the heading (22 October 2026). `.page__content p.lead` rather than `.lead`:
+// the theme's `.page__content p { font-size: 1em }` is more specific and
+// otherwise wins, leaving the line at body size.
+.page__content p.lead {
   font-size: 1.25em;
   color: $muted-text-color;
   margin-top: -0.5em;
@@ -86,7 +88,7 @@ details.accordion > summary {
 
   img {
     display: block;
-    height: 170px;
+    height: 150px; // six covers fit one row inside the 48em column
     width: auto;
     border-radius: 2px;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
