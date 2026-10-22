@@ -7,7 +7,7 @@ header:
 
 <p class="lead">Practical theologian, educator, church planter and writer</p>
 
-I am Dean of Church Planting at [St Hild College](https://www.sthild.org/) and Adjunct Professor at [Asbury Theological Seminary](https://asburyseminary.edu), where I am Director of Studies for the Doctor of Ministry in the UK and Europe. I am a priest in the [Church of England](https://www.churchofengland.org) and Associate Minister of [St Stephen](https://www.acombparish.org/), Acomb. I worked for fifteen years with Alpha International, latterly as National Director, and for fourteen years I was the ordained leader of G2, a church plant from The Belfrey (St Michael le Belfrey) in York.
+I am Dean of Church Planting at [St Hild College](https://www.sthild.org/) and Adjunct Professor at [Asbury Theological Seminary](https://asburyseminary.edu). I am a priest in the [Church of England](https://www.churchofengland.org) and Associate Minister of [St Stephen](https://www.acombparish.org/), Acomb. I worked for fifteen years with Alpha International, latterly as National Director, and for fourteen years I was the ordained leader of G2, a church plant from The Belfrey (St Michael le Belfrey) in York.
 
 ## Books and chapters
 
