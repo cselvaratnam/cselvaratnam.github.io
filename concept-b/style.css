@@ -110,7 +110,7 @@ ul.entries li { margin-bottom: 16px; }
 .route.mini li { padding: 0 0 6px; }
 .route.mini .station { top: 14px; }
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
   .route { display: grid; grid-template-columns: repeat(5, 1fr); position: relative; padding: 28px 0 0; margin-left: 0; border-left: 0; gap: 0 8px; --line-top: 37px; }
   .route.mini { --line-top: 34px; }
   .route::before { content: ""; position: absolute; top: var(--line-top); left: 10%; right: 10%; height: 4px; background: var(--route); }
@@ -121,7 +121,7 @@ ul.entries li { margin-bottom: 16px; }
   .route a { justify-content: center; }
 }
 .route.mini a { text-align: left; }
-@media (min-width: 768px) { .route.mini a { text-align: center; } }
+@media (min-width: 900px) { .route.mini a { text-align: center; } }
 
 /* Recent talks */
 .talks-grid { display: grid; gap: 20px; }
@@ -183,4 +183,6 @@ figcaption { font-size: 14px; color: var(--stone); margin-top: 6px; line-height:
 .site-footer p { margin: 0 0 8px; }
 .foot-links { list-style: none; margin: 0 0 8px; padding: 0; display: flex; flex-wrap: wrap; gap: 0 20px; }
 .foot-links li { display: inline-flex; align-items: center; min-height: 44px; gap: 6px; flex-wrap: wrap; }
+.foot-links a { display: inline-flex; align-items: center; min-height: 44px; }
+.foot-links a[aria-current="page"] { color: var(--ink); font-weight: 700; text-decoration-color: var(--route); text-decoration-thickness: 3px; text-underline-offset: 0.25em; }
 .copy { color: var(--stone); }
