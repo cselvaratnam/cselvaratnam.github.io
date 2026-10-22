@@ -22,4 +22,4 @@ I am Dean of Church Planting at [St Hild College](https://www.sthild.org/) and A
 <a href="/books/#alpha-planting"><img src="/assets/images/alpha-planting.jpg" alt="Cover of Alpha as a Church Planting Tool"></a>
 </div>
 
-This is a small site where I keep my work in one place: the [books and chapters](/books/) I have written, my wider [teaching](/teaching/) and [everything else](/else/).
+This is a small site where I keep the [books and chapters](/books/) I have written, my wider [teaching](/teaching/) and [everything else](/else/).
