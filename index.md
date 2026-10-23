@@ -7,7 +7,7 @@ header:
 
 <p class="lead">Practical theologian, educator, church planter and writer</p>
 
-I am Dean of Church Planting at [St Hild College](https://www.sthild.org/) and Adjunct Professor at [Asbury Theological Seminary](https://asburyseminary.edu). I am a priest in the [Church of England](https://www.churchofengland.org) and Associate Minister of [St Stephen](https://www.acombparish.org/), Acomb. I am a former National Director of Alpha International and a church planter.
+I am Dean of Church Planting at [St Hild College](https://www.sthild.org/) and Adjunct Professor at [Asbury Theological Seminary](https://asburyseminary.edu). A priest in the [Church of England](https://www.churchofengland.org), I serve as Associate Minister of [St Stephen](https://www.acombparish.org/), Acomb. Formerly National Director of Alpha International, I am also a church planter.
 
 ## Publications
 
