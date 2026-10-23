@@ -95,7 +95,7 @@ I am something of a late developer as an author. I found my confidence during my
 </details>
 
 Not everything finds its way into a book. The rest is here by year: articles and blog posts, podcasts, reviews, recordings of talks, and broadcasts.
-{: #everything-else}
+{: #everything-else .bridge}
 
 <details class="accordion" name="books" markdown="1" open>
 <summary>2026</summary>

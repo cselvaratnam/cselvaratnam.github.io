@@ -129,6 +129,17 @@ details.accordion > summary {
   margin-top: 0;
 }
 
+// Publications: the paragraph between the book accordions and the year
+// accordions. It gets air above it, and the accordion before it gets the
+// bottom rule that only the last accordion normally has (23 October 2026).
+.page__content p.bridge {
+  margin-top: 2em;
+}
+
+details.accordion:has(+ p.bridge) {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+}
+
 // Footer links grey, matching the header.
 .page__footer a,
 .page__footer-follow a {
