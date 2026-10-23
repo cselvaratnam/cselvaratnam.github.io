@@ -4,9 +4,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Books"
-    url: /books/
+  - title: "Publications"
+    url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "Everything Else"
-    url: /else/
