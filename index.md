@@ -21,3 +21,5 @@ I am Dean of Church Planting at [St Hild College](https://www.sthild.org/) and A
 <a href="/publications/#global-voices"><img src="/assets/images/global-voices.jpg" alt="Cover of Global Voices"></a>
 <a href="/publications/#alpha-planting"><img src="/assets/images/alpha-planting.jpg" alt="Cover of Alpha as a Church Planting Tool"></a>
 </div>
+
+A [full list of my publications](/publications/) includes my articles, talks and broadcasts.
