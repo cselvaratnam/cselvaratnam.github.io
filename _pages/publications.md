@@ -6,7 +6,7 @@ header:
   image: /assets/images/banner4.jpg
 ---
 
-My books and writing come from the intersection of being a practitioner and a theologian — that is my particular approach. I am currently finishing a number of titles I have been working on for a couple of years.
+My books and writing come from the intersection of being a practitioner and a theologian. I am currently finishing a number of titles I have been working on for a couple of years.
 
 <details class="accordion" name="books" markdown="1" open>
 <summary>Books</summary>
