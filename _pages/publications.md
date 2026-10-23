@@ -6,7 +6,7 @@ header:
   image: /assets/images/banner4.jpg
 ---
 
-I am something of a late developer as an author. I found my confidence during my doctoral studies, and my first book was the publication of that research as *The Craft of Church Planting*. My books and writing come, for the most part, from the intersection of being a practitioner and a theologian — that is my particular approach. I am currently finishing a number of titles I have been working on for a couple of years.
+My books and writing come from the intersection of being a practitioner and a theologian — that is my particular approach. I am currently finishing a number of titles I have been working on for a couple of years.
 
 <details class="accordion" name="books" markdown="1" open>
 <summary>Books</summary>
